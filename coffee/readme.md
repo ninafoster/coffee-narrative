@@ -1,7 +1,3 @@
-<param ve-image
-src="wc:Kaffeplantage_i_Yemen.jpg"
-caption="Drawing of a coffee plantation in Yemen, 1762. By Georg Wilhelm Baurenfeind (1728–1763). Courtesy of the Danish State Archives, public domain, via Wikimedia Commons."
-fit="contain">
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
@@ -11,3 +7,9 @@ fit="contain">
        height=100
        author="Nina Foster"
        layout="vertical">
+	   
+text
+<param ve-image
+src="wc:François_Boucher_002.jpg"
+caption="*Le Dejeuner (Morning Coffee)* by François Boucher, 1739. Oil on canvas. Louvre Museum, Paris.">
+
