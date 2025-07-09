@@ -10,5 +10,4 @@
 	   
 ### From Ethiopia to the World 
 
-France facilitated the passage of Coffea arabica to the Caribbean. In 1720, French naval officer Gabriel de Clieu journeyed to the colony of Martinique with two coffee plants from Amsterdam, only one of which survived. In the decades that followed, coffee spread throughout the Caribbean islands. Several coffee plantations in European colonies relied on forced labor. In eighteenth-century Grenada, for example, enslaved people tended more than 12,000 acres of coffee properties. 
-
+The history of coffee solidifies around 1450, when Yemeni practitioners of an ascetic religious movement called Sufism reported using the beverage to aid their concentration in prayer. In the sixteenth century, the Ottoman state harnessed coffee cultivation to fill the gap created by the economic downfall of the Red Sea spice trade. A matrix of coffee trading posts developed in Yemen, including inland sites of cultivation, a wholesale market in the lowland city of Bayt al-Faqīh, and the ports of Mocha, al-Hudaydah, and al-Luhayyah. Merchants carried roasted coffee beans across terrestrial routes and the Red Sea to the Hejaz, Cairo, the Levant, and Istanbul.
