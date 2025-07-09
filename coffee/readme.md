@@ -11,6 +11,4 @@
 ### From Ethiopia to the World 
 
 France facilitated the passage of Coffea arabica to the Caribbean. In 1720, French naval officer Gabriel de Clieu journeyed to the colony of Martinique with two coffee plants from Amsterdam, only one of which survived. In the decades that followed, coffee spread throughout the Caribbean islands. Several coffee plantations in European colonies relied on forced labor. In eighteenth-century Grenada, for example, enslaved people tended more than 12,000 acres of coffee properties. 
-<param ve-iframe
-	   src="link">
 
