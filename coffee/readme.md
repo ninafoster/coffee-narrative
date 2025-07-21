@@ -63,72 +63,170 @@ The French colonial empire facilitated the passage of *Coffea arabica* to the Ca
 ### Coffeehouse Culture
 
 As coffee dispersed via merchants and colonial empires, so did the establishment of coffeehouses. According to James Douglas, an eighteenth-century anatomist, botanist, and bibliophile, the first coffeehouse was founded in Mecca near the end of the fifteenth century.[^15] "Thither crowds of people resorted at all hours of the day, to enjoy the pleasure of conversation, play at chess and other games, dance, sing, and divert themselves all manner of ways, under the pretense of drinking coffee," he writes.[^16] These meeting places appeared wherever coffee was consumed, hosting lively exchanges of news, ideas, and political debates. Travelers who visited coffeehouses often left inspired and brought the custom back to their home countries. 
+<param ve-iframe
+	   src="https://archive.org/details/supplementtodesc1727doug/page/14/mode/1up">
 
 In some cities, the initial establishment of coffeehouses did not receive unanimous support. Authorities questioned the merits of these gathering spaces, condemning their associations with merry-making and disorder. In sixteenth-century Cairo, for instance, an imam employed his rhetoric against coffee and called its consumption unlawful. Douglas recounts, "His discourse had so great an effect on the mob who heard it, that, as soon as service was over, they went and pulled down all the coffeehouses that fell in their way, broke the pots and dishes, and maltreated the company they found in them."[^17] Coffee ultimately triumphed in court after a judge consulted an assembly of doctors, all of whom decided in favor of the beverage. The drink was redeemed by its delectable flavor and presumed medicinal benefits, said to "keep the body in good health," "quicken the spirits," and "make the heart lightsome."[^18]
+<param ve-image
+	   src="wc:Robert_Charles_Goff_-_Coffee_House_and_Mosque_Entrance,_Cairo_-_B1994.4.969_-_Yale_Center_for_British_Art.jpg"
+	   caption="*Coffee House and Mosque Entrance, Cairo* by Robert Charles Goff. Yale Center for British Art via Wikimedia Commons.">
 
 In seventeenth-century Europe, these spaces served as forums for the dissemination of Enlightenment culture. German social theorist Jürgen Habermas points to the English coffeehouse as "a public sphere that functioned in the political realm."[^19] Heads of state, such as King Charles II, tried and failed to suppress the vibrant exchange of political news among coffeehouse clientele.[^20] Patrons continued to criticize their governments, authors gathered to discuss literature, and merchants and stockbrokers turned their tables into unofficial offices. Historian Brian Cowan summarizes the Habermasian view of the coffeehouse as "a novel unique and social space in which distinctions of rank were temporarily ignored and uninhibited debate on matters of political and philosophical interest flourished."[^21] Of course, not all social distinctions were cast aside. Women were generally excluded from coffeehouse society, and the locales were criticized for only serving "prosperous middle-class Londoners."[^22]
+<param ve-image
+	   src="wc:Interior_of_a_London_Coffee-house,_17th_century.JPG"
+	   caption="Interior of a London coffeehouse, 17th century. Wikimedia Commons.">
 
 Coffee eventually migrated from the public realm of the coffeehouse to the private sphere. At home, the beverage became available to women and the working class. Women gathered close acquaintances for daily or weekly coffee parties, mirroring the socializing and discourse of the public spaces from which they were prohibited. And with the rise of industrialization, coffee became entangled with labor. According to historian Wolfgang Schivelbusch, the stimulant was a "first-rate efficiency factor" that "promised nothing less than to lengthen and intensify the time available for work."[^23] Coffee enabled workers to fend off drowsiness, fueling an industry that prioritized endurance and productivity.
+<param ve-image
+	   src="wc:François_Boucher_002.jpg"
+	   caption="*Le Dejeuner (Morning Coffee)* by François Boucher, 1739. Oil on canvas. Louvre Museum, Paris via Wikimedia Commons.">
 
 Today, 2.3 billion cups of coffee are consumed daily in private homes and millions of coffee shops around the world.[^24] The drink continues to power labor forces in diverse workplaces, from offices to farms and factories. Contemporary coffeehouses have come a long way from their earliest ancestors, with modern brewing equipment and fewer social limitations, but they embody many of the same virtues. John Frederick Frank’s 1947 poem "Coffee Hour" paints the coffeehouse as a community hub. It begins, "Society solidified: three old ladies / Sipping primly, facing friends."[^25] Centuries after Yemen’s initial cultivation of *Coffea arabica*, the plant continues to connect us.
+<param ve-image
+	   src="wc:Espresso_House_in_Torp_shopping_mall,_Uddevalla.jpg"
+	   caption="A modern-day coffeehouse in Uddevalla, Sweden. W. Carter via Wikimedia Commons.">
 
 ### An Industry Under Threat
 
 Coffee is currently grown in more than 70 countries, with Brazil, Vietnam, and Colombia functioning as top producers.[^26] Whether hot or iced, sweetened or plain, instant or the outcome of a patient brew, coffee is one of the most consumed beverages in the world, and global consumption is on the rise.[^27] But climate change is threatening the long-term security and stability of the industry. 
+<param ve-image
+	   src="wc:Manual_drip_(pour-over)_coffee.jpg"
+	   caption="Brewing coffee using the pour-over method. Kim Sanso via Wikimedia Commons.">
 
 Genetic diversity is key to climate resilience. Species with a diverse gene pool are more likely to possess traits that are well suited for survival and reproduction in an altered environment.[^28] Although *Coffea arabica* has an extensive range, its genetic diversity is severely limited. All of today’s cultivars are the descendants of two arabica varieties that underwent successive reductions in genetic diversity as they radiated from Yemen.[^29] This homogeneity is exacerbated by the fact that arabica coffee is self-fertilizing, meaning it can reproduce using its own pollen instead of relying on other plants. Under a changing climate, arabica will struggle to adapt. 
+<param ve-image
+	   src="wc:Coffee-farm-san-marcos-tarrazu-costa-rica.jpg"
+	   caption="Coffee farms in San Marcos, Costa Rica. Tarrazu via Wikimedia Commons.">
 
 The optimal growing conditions for *Coffea arabica* include temperatures between 57 and 79 degrees Fahrenheit, moderate rainfall, and an annual dry period of one to three months.[^30] These conditions will become harder to achieve in current coffee-growing regions as fossil fuel combustion and deforestation — including the clearing of forests for coffee farms — alter worldwide temperatures and weather patterns. Global warming and changes in precipitation will interfere with coffee plant growth, flowering, and fruiting, resulting in poor yields and lower-quality beans.[^31]
+<param ve-video
+	   src="A33NTsWxc-o"
+	   caption= "Climate Change and Coffee Products">
 
 Researchers predict that climate change will drastically reduce coffee-suitable lands in the coming decades. One study forecasts a 54 to 60 percent decline in the world’s most suitable areas for arabica cultivation by 2050.[^32] Another study estimates that Latin America could lose as much as 88 percent of its coffee-growing land by the same year.[^33]
+<param ve-image
+	   src="gh:ninafoster/playground/main/coffee/coffea-arabica-suitability-2050.PNG"
+	   caption="Change in climate-suitable lands by 2050 under an intermediate emissions scenario. From Roman Grüter et al., [Expected global suitability of coffee, cashew and avocado due to climate change](https://doi.org/10.1371/journal.pone.0261976), *PLOS ONE* 17, no. 1 (2022).">
 
 *Coffea arabica* is further threatened by another climate-related shift: more frequent and severe outbreaks of pests and diseases. The effects of climate change on plant pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and altitudes that were once too cold for survival.
+<param ve-image
+	   src="gh:ninafoster/playground/main/coffee/rising-temperatures-insect-pests.png"
+	   caption="Climate change is generally advantageous for insects, facilitating range expansion and increased reproduction. Graphic by Nina Foster.">
 
 Such is the case for the coffee berry borer (*Hypothenemus hampei*), the world’s most damaging coffee pest.[^35] At less than two millimeters long, female borers infiltrate coffee fruit and feed on the developing seeds, creating galleries in which to lay as many as 100 eggs. The larvae feast on the seed in which they hatch, further reducing its size and quality. The beetle has spread from West Africa to almost all coffee-producing regions, resulting in yearly losses that easily surpass 500 million dollars.[^36]
+<param ve-compare
+	   src="wc:Coffee_berry_borer2.jpg"
+	   caption="Swipe across the images to see the impact of a coffee berry borer infestation.">
+<param ve-compare
+	   src="wc:Amy_farms_typica_hybrid_coffee_beans.jpg">
 
 Farmers typically treat coffee berry borer infestations by spraying chemical insecticides, releasing biological control agents, or removing and destroying infested coffee berries. However, the adoption and effectiveness of these practices vary based on cost, labor availability, and producer knowledge. Under climate change, the problem will only get worse. The beetle is expected to plague previously inaccessible regions, and its developmental time has been shown to decrease with warmer temperatures, meaning more insect generations and more damage.[^37]
+<param ve-image
+	   src="wc:Finca_La_Esperanza.jpg"
+	   caption="A coffee producer in Nicaragua inspects a coffee berry borer trap on his farm. Morgan Arnold via Wikimedia Commons.">
 
 Climate change could also intensify outbreaks of coffee leaf rust. Like the coffee berry borer, this disease has caused widespread destruction since its initial identification in the nineteenth century.[^38] The ailment blemishes coffee leaves with yellow and brown spots, coating their undersides with a fine orange dust. Infected trees lose their rusted leaves, produce lower yields, and usually die within a few years. In 2011, an epidemic that began in Central America damaged crops on roughly 70 percent of Latin American coffee farms, causing more than three billion dollars in damage by 2021. Now, higher temperatures and extreme weather events like flooding may create environments that are more conducive to the growth of Hemileia vastatrix, the fungal pathogen responsible for the disease.[^39]
+<param ve-compare
+	   src="wc:Hemileia_vastatrix.jpg"
+	   caption="Swipe across the images to compare healthy coffee leaves with those infected by coffee leaf rust.">
+<param ve-compare
+	   src="wc:Coffea_arabica_Kawa_arabska_2021-0-09_01.jpg">
 
 These challenges send ripples throughout the supply chain. In January 2025, poor growing seasons due to drought, frost, and floods in Brazil and Vietnam caused coffee prices to soar.[^40] Low yields, coupled with rising demand, drove the retail price of ground coffee to an all-time high of seven dollars per pound, up from four dollars in January 2020.
+<param ve-video
+	   src="4VePbuE9iIk"
+	   caption="Global Coffee Prices Rise as Drought Hits Brazil">
 
 Climate change impacts both the arabica coffee plant and the billions of people with a relationship to the crop, exacerbating the challenges that industry stakeholders already face. Extreme weather events, inflation, interest rates, unstable energy prices, and global conflicts drive market volatility.[^41] Labor conditions on some farms have been likened to slavery, depriving workers of running water, beds, toilets, or pay.[^42] Several coffee farmers and producers have little negotiating power in coffee supply chains, forced to get by on meager payments for their crops. In an ethnographic study of the Vietnamese coffee industry, Sarah G. Grant describes "a complicated web of risks and uncertainty" in which the decisions of state and global actors often fail to meet the needs of farmers.[^43]
+<param ve-image
+	   src="gh:ninafoster/playground/main/coffee/coffee-stakeholders.png"
+	   caption="Some of the stakeholders in the coffee industry. Graphic by Nina Foster.">
 
 Climate change will make coffee prices more unpredictable, labor conditions more hazardous, and economic losses more extreme. "For us, producing coffee is our life," said Honduran producer Moises Herrera in an interview with journalist Peter S. Goodman. "A lot of producers are starting to lose hope."[^44]
+<param ve-image
+	   src="wc:Coffee_farmer_-_triangulo_del_café.jpg"
+	   caption="A farmer in Colombia harvests ripe coffee berries. Maria del Pilar Ruiz via Wikimedia Commons.">
 
 ### Climate-proofing Coffee 
 
 In an ideal world, we would address the root cause of climate change by minimizing greenhouse gas emissions and protecting carbon sinks, such as oceans and forests. Unfortunately, our current climate mitigation policies are proving insufficient.[^45] The coffee industry must adapt accordingly. 
+<param ve-video
+	   src="fmBDZKOdbkY"
+	   caption="Climate Adaptation and Mitigation">
 
 Researchers have identified three main pathways to climate resilience in coffee production.[^46] The first involves relocating coffee farming to areas with suitable climates, including higher elevations. Although relocation would alleviate thermal stresses on coffee plants, the transition could result in the loss of livelihoods for farming communities at lower elevations as well as deforestation in favor of agricultural expansion.[^47]
+<param ve-image
+	   src="wc:Coffee_tree_atop_the_Maricao_mountains_in_Puerto_Rico_(5661610485).jpg"
+	   caption="A coffee tree in bloom at high elevation in Puerto Rico. US Fish and Wildlife Service via Wikimedia Commons.">
 
 The second suggestion is to adopt sustainable farming practices like agroforestry, which integrates coffee plants with shade trees. In Central America, coffee was traditionally grown in agroforestry systems until the advent of the Green Revolution in the mid-twentieth century, which transformed agricultural operations in favor of higher yields.[^48] Coffee producers shifted to unshaded, intensive farms with dwarf coffee varieties that required substantial fertilizer and pesticide applications. Today, many arabica coffee growers recognize that a return to agroforestry would boost their plantation’s climate resilience, provide habitat for migratory birds and other wildlife, and reduce soil erosion. But the transition could also mean a drop in productivity and an increased risk of coffee leaf rust.[^49]
+<param ve-image
+	   src="wc:Café_bajo_sombra_-_49465736457.jpg"
+	   caption="Coffee growing in an agroforestry system in Puebla, Mexico. Feria  de Productores via Wikimedia Commons.">
 
 The third pathway — which has been called "the least disruptive, the most cost-effective, and probably the most successful" — is using the principles of genetics to develop climate-resilient coffee cultivars.[^50] Breeders played a pivotal role in the Green Revolution by creating the dwarf arabica plants that could grow more densely in monoculture than traditional varieties. Toward the end of the twentieth century, however, coffee breeding pivoted from an emphasis on productivity to address the growing concerns of climate change, pests and diseases, and cup quality.[^51]
+<param ve-image
+	   src="wc:DNA_Extraction_of_Bacteria.jpg"
+	   caption="Researchers extracting bacterial DNA. Iris Marie Kelly via Wikimedia Commons.">
 
 Using traditional plant breeding methods, scientists can develop hybrid coffee plants with desirable traits like disease resistance and drought tolerance. Current breeding efforts focus primarily on first-generation (F1) hybrid varieties, which are created by transferring pollen from the flower of one genetically distinct parent to another using a paintbrush, then planting the resulting seeds. Breeders typically cross wild *Coffea arabica* varieties from Sudan or Ethiopia with common American cultivars. According to World Coffee Research, "One of the key distinguishing features of F1 hybrids is their 'hybrid vigor,' which can translate into everything from higher yields, to wider climate adaptability, to resilience in the face of stresses like disease (e.g., coffee rust), frost, or drought."[^52]
+<param ve-video
+	   src="xahFgSSLonQ"
+	   caption="Coffee Breeding">
 
 Early breeding efforts have prioritized the species and flavor profiles that consumers know and love: *Coffea arabica* and *Coffea robusta*, the second-most cultivated coffee species worldwide. But with more than 120 species of coffee to experiment with, researchers are starting to branch out. *Coffea stenophylla*, for instance, is a narrow-leaved species once farmed in Sierra Leone with a much higher temperature tolerance than arabica.[^53] The plant’s beans have been described as "superior to those of all other species."[^54] Their flavor resembles a premium arabica, with undertones of peach, jasmine, chocolate, and elderflower syrup. *Coffea stenophylla* produces comparatively low yields, but the plant’s heat resistance, coupled with the impeccable flavor of its beans, makes the species a promising contender for coffee breeding. 
+<param ve-image
+	   src="wc:Coffea_stenophylla-Jardin_botanique_de_Berlin_(1).jpg"
+	   caption="*Coffea stenophylla* in the Berlin Botanic Garden. Ji-elle via Wikimedia Commons.">
 
 An additional benefit of F1 hybrids is their capacity to complement sustainable farming practices. A 2011 analysis of F1 hybrids in Central America found that the specialized plants not only produced earlier and higher yields than traditional American cultivars — they also performed better in agroforestry systems than in full sun.[^55]
+<param ve-image
+	   src="gh:ninafoster/playground/main/coffee/full-sun-vs-agroforestry.png"
+	   caption="Comparison of the mean yield of traditional American coffee cultivars versus hybrids according to the cropping system. From B. Bertrand et al., [Performance of Coffea arabica F1 hybrids in agroforestry and full-sun cropping systems in comparison with American pure line cultivars](https://doi.org/10.1007/s10681-011-0372-7), *Euphytica* 181 (2011).">
 
 F1 hybrids are a promising climate solution, and a handful of cultivars have been made commercially available to farmers. However, costs and logistical challenges pose a barrier to widespread implementation. "It is neither simple nor cheap to introduce a new cultivar, which takes at least 12 to 16 years from generation to approval for commercial use," explain researchers in Brazil.[^56] The price of a hybrid coffee seedling is 40 to 160 percent higher than a seedling of a traditional variety, and caring for F1 hybrids requires additional labor, fertilizer applications, and management know-how.[^57] Still, the benefits of higher outputs and fewer losses may outweigh the extra costs. 
+<param ve-image
+	   src="wc:Coffee_seedlings_produced_by_Asencio_Sánchez_(5662148216).jpg"
+	   caption="Coffee seedlings in Puerto Rico. US Fish and Wildlife Service via Wikimedia Commons.">
 
 In addition to plant breeding, scientists are using genetic engineering to develop pest-resistant coffee plants. Much of the work thus far has focused on *Bacillus thuringiensis* (Bt), a bacterium whose proteins are toxic to many insect pests but not to humans or other animals. Geneticists have successfully integrated the DNA that codes for these proteins into the genomes of different crops, including corn, cotton, soybeans, and potatoes.[^58]
+<param ve-video
+	   src="nwQkhTB0M54"
+	   caption="Genetic Engineering with *Bacillus thuringiensis*"
+	   start="64"
+	   end="323">
 
 In 2000, researchers developed Bt-protected arabica plants that expressed resistance to the coffee leaf miner.[^59] More recently, a team sought out to determine whether the bacterium’s DNA could protect *Coffea arabica* from the coffee berry borer. The results were encouraging; the engineered plants induced 85 to 100 percent beetle mortality after 10 days with minimal seed damage.[^60] Unlike plant breeding, genetic engineering is still a relatively young field, and transgenic coffee plants have yet to hit the market.
+<param ve-image
+	   src="wc:Bt-toxin-crystals.jpg"
+	   caption="Crystals of the Bt toxin from *Bacillus thuringiensis*. Jim Buckman via Wikimedia Commons.">
 
 These endeavors, particularly coffee breeding, will rely on an abundance of genetic resources from which to select useful traits. Wild coffee species are an invaluable tool, offering the genetic variability that arabica cultivars lack. But many of these wild plants, like *Coffea arabica*, are losing suitable habitat to climate change and human activity. At least 60 percent of wild coffee species are threatened with extinction.[^61]
+<param ve-image
+	   src="wc:Ethiopia%27s_Bale_Mountains_(MODIS_2021-01-19).jpg"
+	   caption="Aerial photo of Ethiopia’s Bale Mountains National Park, home to one of the largest natural stands of wild coffee genetic stock. NASA GSFC via Wikimedia Commons.">
 
 Preserving the genetic diversity of wild coffee species will require a combination of *in situ* conservation, which protects existing plants in their natural habitats, and *ex situ* conservation, which relocates plants to controlled environments.[^62] At present, *ex situ* collections are the primary method of conserving coffee genetic resources. Coffee is not a suitable candidate for long-term seed banking, because its seeds cannot be stored beyond two or three years. Instead, conservationists maintain collections of live coffee plants, pollen samples, and DNA.
+<param ve-image
+	   src="gh:ninafoster/playground/main/coffee/countries-with-ex-situ-field-collections.png"
+	   caption="Countries with *ex situ* field collections of coffee. Nina Foster, ArcGIS.">
 
 ### Brewing Partnerships 
 
 A central theme emerges in publications on coffee, climate change, and the preservation of genetic resources. Several authors emphasize the need for improved collaboration and communication among industry stakeholders. For example, the Innovea Global Arabica Breeding Network — a global breeding effort led by World Coffee Research — argues that "individual national research programs face significant limitations working alone."[^63] Similarly, the authors of the 2017 *Global Conservation Strategy for Coffee Genetic Resources* write, "The global community will need to operate together as a platform for collaboration on conservation, breeding, research, and enhanced use."[^64]
+<param ve-image
+	   src="wc:Coffee_and_Friends_(Unsplash).jpg"
+	   caption="Coffee is an agent of connection. Nathan Dumlao via Wikimedia Commons.">
 
-Failing to adapt coffee to climate change would be catastrophic for the millions who depend on the crop for their livelihoods, particularly for the farmers and producers who are already struggling to make ends meet. For these climate solutions to be truly sustainable, researchers and policymakers must embrace cross-cultural dialogue and consider the inconsistencies and inequities of the coffee industry.  
+Failing to adapt coffee to climate change would be catastrophic for the millions who depend on the crop for their livelihoods, particularly for the farmers and producers who are already struggling to make ends meet. For these climate solutions to be truly sustainable, researchers and policymakers must embrace cross-cultural dialogue and consider the inconsistencies and inequities of the coffee industry. 
+<param ve-image
+	   src="wc:Harvesting_coffee,_Sao_Paulo,_Brazil,_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg"
+	   caption="Coffee farmers in Sao Paulo, Brazil, 1923. Artemas Ward via Wikimedia Commons.">
 
 We cannot abandon the plant that has shaped societies in its travels from the forests of Ethiopia to the rest of the world. Safeguarding the future of this crop necessitates the very thing that coffee does best: cultivating connections, not just among consumers, but among everyone with ties to the production and deep-rooted history of this beloved seed.
+<param ve-image
+	   src="wc:Coffee_beans_in_a_farmer%27s_hands.jpg"
+	   caption="A handful of coffee’s cherished fruit. Wikimedia Commons.">
 
 [^1]: National Coffee Association, "Sustainability," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/sustainability/.
 [^2]: Amelia Shister Graytock, *Is Robusta on the Rise? Trends in Coffee Species Trade* (U.S. International Trade Commission, 2024), https://www.usitc.gov/publications/332/executive_briefings/ebot_robusta_on_the_rise.pdf.
