@@ -37,7 +37,7 @@ The early years of coffee consumption are shrouded in mystery. Most coffee histo
 
 Kaldi’s supposed discovery of coffee is said to date back to the ninth century, but the earliest written record with any resemblance to the myth appears much later. Mehrej Ibn Nimrûm, a Maronite scholar and priest also known as Antonio Faustus Naironi or Banesius, was the first to reference the legend in his 1671 treatise on coffee’s history and virtues.[^6] Instead of Ethiopia, the story is set in Yemen, where arabica arrived as early as the sixth century.[^7]
 <param ve-iframe
-	   src="https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/page/n9/mode/1up">
+	   src="https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/page/n9">
 
 Nimrûm describes a man who complained to monastics that his livestock — camels in some variations, goats in others — were "frisking and dancing" instead of sleeping.[^8] The head of the monastery purportedly visited the pasture and, after locating the fruits upon which the livestock fed, "resolved to try the virtues of these berries himself; thereupon, boiling them in water, and drinking thereof, he found by experience, it kept him awake in the night."[^9] He then told his fellow monks about the beverage, offering revitalization in their pursuit of the divine. 
 <param ve-video
