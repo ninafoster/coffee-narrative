@@ -9,26 +9,56 @@
        layout="vertical">
 	  
 Coffee is one of the world’s most important agricultural commodities, supporting the livelihoods of an estimated 125 million people.[^1] There are more than 120 species in the Coffea genus, but one in particular has dominated the industry: Arabica coffee (*Coffea arabica*). The plant accounts for approximately two-thirds of global coffee production.[^2]
+<param ve-image
+	   src="wc:Coffee_plant_(Coffea_arabica);_flowering_and_fruiting_stem_w_Wellcome_V0044270.jpg"
+	   caption="*Coffea arabica* stem. Etching by J. Miller, c. 1774, after S. Taylor. Wellcome Collection via Wikimedia Commons.">
 
-Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to round, fleshy fruits containing the pale seeds known as coffee beans. Through networks of trade and conquest, this plant has traveled across the "Coffee Belt," a region between the Tropics of Cancer and Capricorn with ideal conditions for coffee cultivation. 
+Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to round, fleshy fruits containing the pale seeds known as coffee beans. Through networks of trade and conquest, this plant has traveled across the "Coffee Belt," a region between the Tropics of Cancer and Capricorn with ideal conditions for coffee cultivation.
+<param ve-image
+	   src="gh:ninafoster/playground/main/coffee/coffee-belt.png"
+	   caption="Map of the Coffee Belt, which encompasses the region between the Tropics of Cancer and Capricorn. Nina Foster, ArcGIS.">
 
 As arabica spread beyond its native range, the plant became an agent of connection and community building. Coffeehouses have served as centers of intellectual and cultural exchange for centuries. Countless relationships have been sparked by the question, "Do you want to meet for coffee?" Between planting, picking, processing, milling, and every other step of the supply chain, coffee is touched by at least nine separate hands before it reaches the consumer.[^4]
+<param ve-video
+	   src="faTsRV7bkEc"
+	   caption="Coffee: From Farm to Cup">
 
 Demand for coffee continues to grow, but the future of the industry is uncertain. The supply chain is marred by labor exploitation, price volatility, and environmental destruction. Arabica coffee is especially vulnerable to climate change and its associated impacts, such as rising temperatures, altered precipitation, and increased pressure from pests and pathogens. Researchers have proposed a number of solutions to protect the plant and other coffee species, each with unique benefits and challenges. These suggestions, if implemented thoughtfully and collaboratively by industry stakeholders, can help safeguard coffee production — and with it, a rich global history. 
-
+<param ve-video
+	   src="LwRTw_7NNJs"
+	   caption="Global Warming, 1880-2022"> 
+	   
 ### From Ethiopia to the World
 
 The early years of coffee consumption are shrouded in mystery. Most coffee historians have encountered a legend about an Ethiopian goat herder named Kaldi, whose livestock became more energetic after eating cherries from a coffee plant.[^5] Intrigued, he tried the fruit for himself and felt a thrilling rush of vitality. As the story goes, he shared his findings with monks at a nearby monastery, initiating coffee’s rise to fame. 
+<param ve-image
+	   src="wc:Zwischen_Bäumen_musizierender_Hirte_mit_zwei_Ziegen_(SM_14095z).png"
+	   caption="Paper-cut artwork of a goat herder and his livestock, 19th century. Städel Museum via Wikimedia Commons.">
 
 Kaldi’s supposed discovery of coffee is said to date back to the ninth century, but the earliest written record with any resemblance to the myth appears much later. Mehrej Ibn Nimrûm, a Maronite scholar and priest also known as Antonio Faustus Naironi or Banesius, was the first to reference the legend in his 1671 treatise on coffee’s history and virtues.[^6] Instead of Ethiopia, the story is set in Yemen, where arabica arrived as early as the sixth century.[^7]
+<param ve-iframe
+	   src="https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/page/n9/mode/1up">
 
 Nimrûm describes a man who complained to monastics that his livestock — camels in some variations, goats in others — were "frisking and dancing" instead of sleeping.[^8] The head of the monastery purportedly visited the pasture and, after locating the fruits upon which the livestock fed, "resolved to try the virtues of these berries himself; thereupon, boiling them in water, and drinking thereof, he found by experience, it kept him awake in the night."[^9] He then told his fellow monks about the beverage, offering revitalization in their pursuit of the divine. 
+<param ve-video
+	   src="PrjkBDfmn1o"
+	   caption="Coffee's Early Origins"
+	   start="0"
+	   end="35">
 
 The history of coffee solidifies around 1450, when [Sufi](Q9603) practitioners in Yemen reported using the beverage to aid their concentration in prayer.[^10] In the sixteenth century, the Ottoman state harnessed coffee cultivation to fill the gap created by the economic downfall of the Red Sea spice trade.[^11] A matrix of coffee trading posts developed in Yemen, including inland sites of cultivation, a wholesale market in the lowland city of Bayt al-Faqīh, and the ports of Mocha, al-Hudaydah, and al-Luhayyah. Merchants carried roasted coffee beans across terrestrial routes and the Red Sea to the Hejaz, Cairo, the Levant, and Istanbul.
+<param ve-image
+	   src="wc:Kaffeplantage_i_Yemen.jpg"
+	   caption="A coffee plantation in Yemen, 1762. Drawing by Georg Wilhelm Baurenfeind. Danish State Archives via Wikimedia Commons.">
 
-Yemen maintained control over coffee production by restricting the export of green, unroasted coffee beans and fertile plants. In 1616, a Dutch East India Company merchant named Pieter van den Broecke carried out a heist that would circumvent these constraints. According to *The Stimulant Sea: Sugar, Coffee, & the Acquisition of Taste*, a 2025 exhibit at the Dumbarton Oaks Museum, van den Broecke smuggled arabica coffee plants from the Yemeni port of Mocha to the botanical gardens of Amsterdam for breeding and cultivation.[^12] In the 1690s, the Dutch East India Company used the progeny of these stolen seedlings to grow coffee in the Dutch colony of Java. They also introduced the crop to Surinam in 1718, from which coffee traveled to French Guiana and Brazil.[^13]
+Yemen maintained control over coffee production by restricting the export of green, unroasted coffee beans and fertile plants. In 1616, a Dutch East India Company merchant named Pieter van den Broecke carried out a heist that would circumvent these constraints. According to *The Stimulant Sea: Sugar, Coffee, & the Acquisition of Taste*, a 2025 exhibit at the Dumbarton Oaks Museum, van den Broecke smuggled arabica coffee plants from the Yemeni port of Mocha to the botanical gardens of Amsterdam for breeding and cultivation.[^12] In the 1690s, the Dutch East India Company used the progeny of these stolen seedlings to grow coffee in the Dutch colony of Java. They also introduced the crop to Suriname in 1718, from which coffee traveled to French Guiana and Brazil.[^13]
+<param ve-image
+	   src="wc:Plan_du_port_de_Mocha_au_Yemen_en_1737.jpg"
+	   caption="Map of the Port of Mocha used by the French East India Company in 1737. Bibliothèque nationale de France via Wikimedia Commons.">
 
 The French colonial empire facilitated the passage of *Coffea arabica* to the Caribbean. In 1720, French naval officer Gabriel de Clieu journeyed to the colony of Martinique with two coffee plants from Amsterdam, only one of which survived. In the decades that followed, coffee spread throughout the Caribbean islands. Several coffee plantations in European colonies relied on forced labor. In eighteenth-century Grenada, for example, enslaved people tended more than 12,000 acres of coffee properties.[^14]
+<param ve-iframe
+	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRZgCL6DW8eUb-RBMsuHK22Of6ffoxmkXs6TNim04kP6wGccg6zJhbZuLBAxZQMNlN8W66ewm9Nb8id&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
 ### Coffeehouse Culture
 
