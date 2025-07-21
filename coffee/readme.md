@@ -3,7 +3,7 @@
 <param ve-config 
        title="Coffee: Cultivating Connection and Climate Resilience"
        source-image="https://upload.wikimedia.org/wikipedia/commons/8/8b/Coffea_arabica_2025-01-02_JM_7D118988.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/8b/Coffea_arabica_2025-01-02_JM_7D118988.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/8b/Coffea_arabica_2025-01-02_JM_7D118988.jpg"
        height=100
        author="Nina Foster"
        layout="vertical">
@@ -51,7 +51,7 @@ The history of coffee solidifies around 1450, when [Sufi](Q9603) practitioners i
 	   src="wc:Kaffeplantage_i_Yemen.jpg"
 	   caption="A coffee plantation in Yemen, 1762. Drawing by Georg Wilhelm Baurenfeind. Danish State Archives via Wikimedia Commons.">
 
-Yemen maintained control over coffee production by restricting the export of green, unroasted coffee beans and fertile plants. In 1616, a Dutch East India Company merchant named Pieter van den Broecke carried out a heist that would circumvent these constraints. According to *The Stimulant Sea: Sugar, Coffee, & the Acquisition of Taste*, a 2025 exhibit at the Dumbarton Oaks Museum, van den Broecke smuggled arabica coffee plants from the Yemeni port of Mocha to the botanical gardens of Amsterdam for breeding and cultivation.[^12] In the 1690s, the Dutch East India Company used the progeny of these stolen seedlings to grow coffee in the Dutch colony of Java. They also introduced the crop to Suriname in 1718, from which coffee traveled to French Guiana and Brazil.[^13]
+Yemen maintained control over coffee production by restricting the export of green, unroasted coffee beans and fertile plants. In 1616, a Dutch East India Company merchant named Pieter van den Broecke carried out a heist that would circumvent these constraints. According to *The Stimulant Sea: Sugar, Coffee, & the Acquisition of Taste*, a 2025 exhibit at the Dumbarton Oaks Museum, van den Broecke smuggled arabica coffee plants from the Yemeni port of Mocha to the botanical gardens of Amsterdam for breeding and cultivation.[^12] In the 1690s, the Dutch East India Company used the progeny of these stolen seedlings to grow coffee in the Dutch colony of Java. They also introduced the crop to Suriname, then known as Dutch Guiana, in 1718, from which coffee traveled to French Guiana and Brazil.[^13]
 <param ve-image
 	   src="wc:Plan_du_port_de_Mocha_au_Yemen_en_1737.jpg"
 	   caption="Map of the Port of Mocha used by the French East India Company in 1737. Bibliothèque nationale de France via Wikimedia Commons.">
