@@ -24,27 +24,20 @@ As arabica spread beyond its native range, the plant became an agent of connecti
 	   caption="Coffee: From Farm to Cup">
 
 Demand for coffee continues to grow, but the future of the industry is uncertain. The supply chain is marred by labor exploitation, price volatility, and environmental destruction. Arabica coffee is especially vulnerable to climate change and its associated impacts, such as rising temperatures, altered precipitation, and increased pressure from pests and pathogens. Researchers have proposed a number of solutions to protect the plant and other coffee species, each with unique benefits and challenges. These suggestions, if implemented thoughtfully and collaboratively by industry stakeholders, can help safeguard coffee production — and with it, a rich global history. 
-<param ve-video
-	   src="LwRTw_7NNJs"
-	   caption="Global Warming, 1880-2022"> 
+<param ve-image
+	   src="wc:Change_in_Average_Temperature_With_Fahrenheit.svg"
+	   caption="Global Warming, 1973-2023. NASA’s Scientific Visualization Studio via Wikimedia Commons"> 
 	   
 ### From Ethiopia to the World
 
 The early years of coffee consumption are shrouded in mystery. Most coffee historians have encountered a legend about an Ethiopian goat herder named Kaldi, whose livestock became more energetic after eating cherries from a coffee plant.[^5] Intrigued, he tried the fruit for himself and felt a thrilling rush of vitality. As the story goes, he shared his findings with monks at a nearby monastery, initiating coffee’s rise to fame. 
-<param ve-image
-	   src="wc:Zwischen_Bäumen_musizierender_Hirte_mit_zwei_Ziegen_(SM_14095z).png"
-	   caption="Paper-cut artwork of a goat herder and his livestock, 19th century. Städel Museum via Wikimedia Commons.">
+<param ve-video
+	   src="TCfujNkhQd8"
+	   caption="The Legend of Kaldi">
 
-Kaldi’s supposed discovery of coffee is said to date back to the ninth century, but the earliest written record with any resemblance to the myth appears much later. Mehrej Ibn Nimrûm, a Maronite scholar and priest also known as Antonio Faustus Naironi or Banesius, was the first to reference the legend in his 1671 treatise on coffee’s history and virtues.[^6] Instead of Ethiopia, the story is set in Yemen, where arabica arrived as early as the sixth century.[^7]
+Kaldi’s supposed discovery of coffee is said to date back to the ninth century, but the earliest written record with any resemblance to the myth appears much later. Mehrej Ibn Nimrûm, a Maronite scholar and priest also known as Antonio Faustus Naironi or Banesius, was the first to reference the legend in his 1671 treatise on coffee’s history and virtues.[^6] Instead of Ethiopia, the story is set in Yemen, where arabica arrived as early as the sixth century.[^7] Nimrûm describes a man who complained to monastics that his livestock — camels in some variations, goats in others — were "frisking and dancing" instead of sleeping.[^8] The head of the monastery purportedly visited the pasture and, after locating the fruits upon which the livestock fed, "resolved to try the virtues of these berries himself; thereupon, boiling them in water, and drinking thereof, he found by experience, it kept him awake in the night."[^9] He then told his fellow monks about the beverage, offering revitalization in their pursuit of the divine. 
 <param ve-iframe
 	   src="https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/page/n9">
-
-Nimrûm describes a man who complained to monastics that his livestock — camels in some variations, goats in others — were "frisking and dancing" instead of sleeping.[^8] The head of the monastery purportedly visited the pasture and, after locating the fruits upon which the livestock fed, "resolved to try the virtues of these berries himself; thereupon, boiling them in water, and drinking thereof, he found by experience, it kept him awake in the night."[^9] He then told his fellow monks about the beverage, offering revitalization in their pursuit of the divine. 
-<param ve-video
-	   src="PrjkBDfmn1o"
-	   caption="Coffee's Early Origins"
-	   start="0"
-	   end="35">
 
 The history of coffee solidifies around 1450, when [Sufi](Q9603) practitioners in Yemen reported using the beverage to aid their concentration in prayer.[^10] In the sixteenth century, the Ottoman state harnessed coffee cultivation to fill the gap created by the economic downfall of the Red Sea spice trade.[^11] A matrix of coffee trading posts developed in Yemen, including inland sites of cultivation, a wholesale market in the lowland city of Bayt al-Faqīh, and the ports of Mocha, al-Hudaydah, and al-Luhayyah. Merchants carried roasted coffee beans across terrestrial routes and the Red Sea to the Hejaz, Cairo, the Levant, and Istanbul.
 <param ve-image
