@@ -8,10 +8,10 @@
        author="Nina Foster"
        layout="vertical">
 	  
-Coffee is one of the world’s most important agricultural commodities, supporting the livelihoods of an estimated 125 million people.[^1] There are more than 120 species in the Coffea genus, but one in particular has dominated the industry: Arabica coffee (*Coffea arabica*). The plant accounts for approximately two-thirds of global coffee production.[^2]
+Coffee is one of the world’s most important agricultural commodities, supporting the livelihoods of an estimated 125 million people.[^1] There are more than 120 species in the *Coffea* genus, but one in particular has dominated the industry: Arabica coffee (*Coffea arabica*). The plant accounts for approximately two-thirds of global coffee production.[^2]
 <param ve-image
 	   src="wc:Coffee_plant_(Coffea_arabica);_flowering_and_fruiting_stem_w_Wellcome_V0044270.jpg"
-	   caption="*Coffea arabica* stem. Etching by J. Miller, c. 1774, after S. Taylor. Wellcome Collection via Wikimedia Commons.">
+	   caption="*Coffea arabica* branch. Hand-colored engraving by J. Miller, c. 1774, after S. Taylor. From John Ellis' *An Historical Account of Coffee*. Wellcome Collection via Wikimedia Commons.">
 
 Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to round, fleshy fruits containing the pale seeds known as coffee beans. Through networks of trade and conquest, this plant has traveled across the "Coffee Belt," a region between the Tropics of Cancer and Capricorn with ideal conditions for coffee cultivation.
 <param ve-image
@@ -111,7 +111,7 @@ Researchers predict that climate change will drastically reduce coffee-suitable 
 *Coffea arabica* is further threatened by another climate-related shift: more frequent and severe outbreaks of pests and diseases. The effects of climate change on plant pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and altitudes that were once too cold for survival.
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/rising-temperatures-insect-pests.png"
-	   caption="Climate change is generally advantageous for insects, facilitating range expansion and increased reproduction. Graphic by Nina Foster.">
+	   caption="Climate change generally benefits insects by promoting range expansion and boosting reproductive rates. Graphic by Nina Foster.">
 
 Such is the case for the coffee berry borer (*Hypothenemus hampei*), the world’s most damaging coffee pest.[^35] At less than two millimeters long, female borers infiltrate coffee fruit and feed on the developing seeds, creating galleries in which to lay as many as 100 eggs. The larvae feast on the seed in which they hatch, further reducing its size and quality. The beetle has spread from West Africa to almost all coffee-producing regions, resulting in yearly losses that easily surpass 500 million dollars.[^36]
 <param ve-compare
