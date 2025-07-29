@@ -110,7 +110,7 @@ Researchers predict that climate change will drastically reduce coffee-suitable 
 
 *Coffea arabica* is further threatened by another climate-related shift: more frequent and severe outbreaks of pests and diseases. The effects of climate change on plant pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and altitudes that were once too cold for survival.
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/rising-temps-insect-pests.png"
+	   src="gh:ninafoster/playground/main/coffee/rising-temps-and-insect-pests.png"
 	   caption="Climate change generally benefits insects by promoting range expansion and boosting reproductive rates. Graphic by Nina Foster.">
 
 Such is the case for the coffee berry borer (*Hypothenemus hampei*), the world’s most damaging coffee pest.[^35] At less than two millimeters long, female borers infiltrate coffee fruit and feed on the developing seeds, creating galleries in which to lay as many as 100 eggs. The larvae feast on the seed in which they hatch, further reducing its size and quality. The beetle has spread from West Africa to almost all coffee-producing regions, resulting in yearly losses that easily surpass 500 million dollars.[^36]
