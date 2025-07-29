@@ -16,7 +16,7 @@ Coffee is one of the world’s most important agricultural commodities, supporti
 Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to round, fleshy fruits containing the pale seeds known as coffee beans. Through networks of trade and conquest, this plant has traveled across the "Coffee Belt," a region between the Tropics of Cancer and Capricorn with ideal conditions for coffee cultivation.
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/coffee-belt.png"
-	   caption="Map of the Coffee Belt, which encompasses the region between the Tropics of Cancer and Capricorn. Nina Foster, ArcGIS.">
+	   caption="Map of the tropics, where conditions are ideal for coffee cultivation. Nina Foster, ArcGIS.">
 
 As arabica spread beyond its native range, the plant became an agent of connection and community building. Coffeehouses have served as centers of intellectual and cultural exchange for centuries. Countless relationships have been sparked by the question, "Do you want to meet for coffee?" Between planting, picking, processing, milling, and every other step of the supply chain, coffee is touched by at least nine separate hands before it reaches the consumer.[^4]
 <param ve-video
