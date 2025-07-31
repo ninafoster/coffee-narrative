@@ -51,7 +51,7 @@ Yemen maintained control over coffee production by restricting the export of gre
 
 The French colonial empire facilitated the passage of *Coffea arabica* to the Caribbean. In 1720, French naval officer Gabriel de Clieu journeyed to the colony of Martinique with two coffee plants from Amsterdam, only one of which survived. In the decades that followed, coffee spread throughout the Caribbean islands. Several coffee plantations in European colonies relied on forced labor. In eighteenth-century Grenada, for example, enslaved people tended more than 12,000 acres of coffee properties.[^14]
 <param ve-iframe
-	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRZgCL6DW8eUb-RBMsuHK22Of6ffoxmkXs6TNim04kP6wGccg6zJhbZuLBAxZQMNlN8W66ewm9Nb8id&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
+	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT6Pi5o3k7Vtrj-UHyHwvY11Mw_QdQszuPBl-uMfPWou70UAv4QXTrHL_u9xFMILvZITzdMnDtHVwd0&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
 ### Coffeehouse Culture
 
