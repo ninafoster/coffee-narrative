@@ -39,17 +39,17 @@ It is believed that Kaldi’s alleged discovery of coffee dates to the ninth cen
 <param ve-iframe
 	   src="https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/page/n9">
 
-The history of coffee solidifies around 1450, when [Sufi](Q9603) practitioners in Yemen reported using the beverage to aid their concentration in prayer.[^10] In the sixteenth century, the Ottoman state harnessed coffee cultivation to fill the gap created by the economic downfall of the Red Sea spice trade.[^11] A matrix of coffee trading posts developed in Yemen, including inland sites of cultivation, a wholesale market in the lowland city of Bayt al-Faqīh, and the ports of Mocha, al-Hudaydah, and al-Luhayyah. Merchants carried roasted coffee beans across terrestrial routes and the Red Sea to the Hejaz, Cairo, the Levant, and Istanbul.
+The history of coffee solidifies around 1450, when [Sufi](Q9603) practitioners in Yemen reported using the beverage to aid their concentration in prayer.[^11] In the sixteenth century, the Ottoman state harnessed coffee cultivation to fill the gap created by the economic downfall of the Red Sea spice trade.[^12] A matrix of coffee trading posts developed in Yemen, including inland sites of cultivation, a wholesale market in the lowland city of Bayt al-Faqīh, and the ports of Mocha, al-Hudaydah, and al-Luhayyah. Merchants carried coffee beans across terrestrial routes and the Red Sea to the Hejaz, Cairo, the Levant, and Istanbul.
 <param ve-image
 	   src="wc:Kaffeplantage_i_Yemen.jpg"
 	   caption="A coffee plantation in Yemen, 1762. Drawing by Georg Wilhelm Baurenfeind. Danish State Archives via Wikimedia Commons.">
 
-Yemen maintained control over coffee production by restricting the export of green, unroasted coffee beans and fertile plants. In 1616, a Dutch East India Company merchant named Pieter van den Broecke carried out a heist that would circumvent these constraints. According to *The Stimulant Sea: Sugar, Coffee, & the Acquisition of Taste*, a 2025 exhibit at the Dumbarton Oaks Museum, van den Broecke smuggled arabica coffee plants from the Yemeni port of Mocha to the botanical gardens of Amsterdam for breeding and cultivation.[^12] In the 1690s, the Dutch East India Company used the progeny of these stolen seedlings to grow coffee in the Dutch colony of Java. They also introduced the crop to Suriname, then known as Dutch Guiana, in 1718, from which coffee traveled to French Guiana and Brazil.[^13]
+The Dutch East India Company introduced coffee cultivation to the Dutch colony of Java in the late seventeenth century. Using fresh coffee seeds obtained in the Yemeni port of Mocha, the Dutch raised a number of seedlings that would eventually populate the island’s coffee plantations.[^13] One tree was gifted to the Amsterdam Botanical Garden in 1706, and in 1718, the Dutch transported coffee plants from Amsterdam to Suriname, then known at Dutch Guiana.[^14] From there, coffee traveled to French Guiana and Brazil.
 <param ve-image
 	   src="wc:Plan_du_port_de_Mocha_au_Yemen_en_1737.jpg"
-	   caption="Map of the Port of Mocha used by the French East India Company in 1737. Bibliothèque nationale de France via Wikimedia Commons.">
+	   caption="Map of the port of Mocha used by the French East India Company in 1737. Bibliothèque nationale de France via Wikimedia Commons.">
 
-The French colonial empire facilitated the passage of *Coffea arabica* to the Caribbean. In 1720, French naval officer Gabriel de Clieu journeyed to the colony of Martinique with two coffee plants from Amsterdam, only one of which survived. In the decades that followed, coffee spread throughout the Caribbean islands. Several coffee plantations in European colonies relied on forced labor. In eighteenth-century Grenada, for example, enslaved people tended more than 12,000 acres of coffee properties.[^14]
+The French colonial empire facilitated the passage of Arabica to the Caribbean. In 1720, French naval officer Gabriel de Clieu journeyed to the colony of Martinique with two coffee plants from Amsterdam, only one of which survived. In the decades that followed, coffee spread throughout the Caribbean islands. Several coffee plantations in European colonies relied on enslaved labor. In eighteenth-century Grenada, for example, enslaved people tended more than 12,000 acres of coffee properties.[^15]
 <param ve-iframe
 	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT6Pi5o3k7Vtrj-UHyHwvY11Mw_QdQszuPBl-uMfPWou70UAv4QXTrHL_u9xFMILvZITzdMnDtHVwd0&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
@@ -227,15 +227,15 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^4]: USDA, *Coffee*, 6.
 [^5]: A Public Affair, "How many hands touch your coffee before you drink it?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
 [^6]: National Coffee Association, "History of Coffee," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/origins/history-of-coffee/. 
-[^6]: This paper refers to the English translation of the treatise, which was originally published in Latin: Faustus Naironus Banesius, *A Discourse on Coffee: Its Description and Vertues* (London: John Morphew, 1710), https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/mode/1up.
-[^7]: Frederick L. Wellman, *Coffee: Botany, Cultivation, and Utilization* (London: Leonard Hill Books, 1910), 8. 
-[^8]: Banesius, *A Discourse on Coffee*, 4–5. 
-[^9]: Banesius, *A Discourse on Coffee*, 5. 
-[^10]: Fernando E. Vega, "The Rise of Coffee," *American Scientist*, March 2008, 138. 
-[^11]: Nancy Um, *The Merchant Houses of Mocha: Trade and Architecture in an Indian Ocean Port* (University of Washington Press, 2011), 36–47. 
-[^12]: Dumbarton Oaks, *The Stimulant Sea: Sugar, Coffee, & the Acquisition of Taste*, April 2025-April 2026, https://www.doaks.org/visit/museum/exhibitions/stimulant-sea.
-[^13]: Vega, "The Rise of Coffee," 140.
-[^14]: Richard B. Sheridan, "The Plantation Revolution and the Industrial Revolution, 1625-1775," *Caribbean Studies* 9, no. 3 (1969): 20, https://www.jstor.org/stable/25612146.
+[^7]: This paper refers to the English translation of the treatise, which was originally published in Latin: Faustus Naironus Banesius, *A Discourse on Coffee: Its Description and Vertues* (London: George James, 1710), https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/mode/1up. 
+[^8]: Frederick L. Wellman, *Coffee: Botany, Cultivation, and Utilization* (London: Leonard Hill Books, 1910), 8. 
+[^9]: Banesius, 4–5. 
+[^10]: Banesius, 5. 
+[^11]: Fernando E. Vega, "The Rise of Coffee," *American Scientist*, March 2008, 138. 
+[^12]: Nancy Um, *The Merchant Houses of Mocha: Trade and Architecture in an Indian Ocean Port* (University of Washington Press, 2011), 36–47. 
+[^13]: James Douglas, *Arbor Yemensis Fructum Cofè Ferens: Or, A Description and History of the Coffee Tree* (London: Thomas Woodward, 1727), 18, https://doi.org/10.5962/bhl.title.155053. 
+[^14]: Vega, "The Rise of Coffee," 140.
+[^15]: Richard B. Sheridan, "The Plantation Revolution and the Industrial Revolution, 1625-1775," *Caribbean Studies* 9, no. 3 (1969): 20, https://www.jstor.org/stable/25612146.
 [^15]: James Douglas, *A Supplement to the Description of the Coffee-tree* (London: Half-Moon, 1727), 14, https://archive.org/details/supplementtodesc1727doug/mode/2up.
 [^16]: Douglas, *A Supplement*, 14. 
 [^17]: Douglas, *A Supplement*, 18. 
