@@ -81,60 +81,58 @@ With the rise of industrialization in the eighteenth century, coffee became enta
 	   start="115"
 	   end="162">
 
-Coffee eventually migrated from the public realm of the coffeehouse to the private sphere. At home, the beverage became available to women and the working class. Women gathered close acquaintances for daily or weekly coffee parties, mirroring the socializing and discourse of the public spaces from which they were prohibited. And with the rise of industrialization, coffee became entangled with labor. According to historian Wolfgang Schivelbusch, the stimulant was a "first-rate efficiency factor" that "promised nothing less than to lengthen and intensify the time available for work."[^23] Coffee enabled workers to fend off drowsiness, fueling an industry that prioritized endurance and productivity.
-
-Today, 2.3 billion cups of coffee are consumed daily in private homes and millions of coffee shops around the world.[^24] The drink continues to power labor forces in diverse workplaces, from offices to farms and factories. Contemporary coffeehouses have come a long way from their earliest ancestors, with modern brewing equipment and fewer social limitations, but they embody many of the same virtues. John Frederick Frank’s 1947 poem "Coffee Hour" paints the coffeehouse as a community hub. It begins, "Society solidified: three old ladies / Sipping primly, facing friends."[^25] Centuries after Yemen’s initial cultivation of *Coffea arabica*, the plant continues to connect us.
+Today, coffee continues to power labor forces in diverse workplaces, from offices to farms and factories. Contemporary coffeehouses have come a long way from their earliest ancestors, with modern brewing equipment and fewer social limitations, but they embody many of the same virtues. John Frederick Frank’s 1947 poem "Coffee Hour" paints the coffeehouse as a community hub. It begins, "Society solidified: three old ladies / Sipping primly, facing friends."[^26] Centuries after Yemen’s initial cultivation of Arabica, the plant continues to connect us. 
 <param ve-image
 	   src="wc:Espresso_House_in_Torp_shopping_mall,_Uddevalla.jpg"
 	   caption="A modern-day coffeehouse in Uddevalla, Sweden. W. Carter via Wikimedia Commons.">
 
-### An Industry Under Threat
+### An Industry under Threat
 
-Coffee is currently grown in more than 70 countries, with Brazil, Vietnam, and Colombia functioning as top producers.[^26] Whether hot or iced, sweetened or plain, instant or the outcome of a patient brew, coffee is one of the most consumed beverages in the world, and global consumption is on the rise.[^27] But climate change is threatening the long-term security and stability of the industry. 
+Whether hot or iced, sweetened or plain, instant or the outcome of a patient brew, coffee is one of the most consumed beverages in the world. Approximately 2.3 billion cups of coffee are consumed daily, and global consumption is on the rise.[^27] But climate change is threatening the long-term security and stability of the industry. 
 <param ve-image
 	   src="wc:Manual_drip_(pour-over)_coffee.jpg"
 	   caption="Brewing coffee using the pour-over method. Kim Sanso via Wikimedia Commons.">
 
-Genetic diversity is key to climate resilience. Species with a diverse gene pool are more likely to possess traits that are well suited for survival and reproduction in an altered environment.[^28] Although *Coffea arabica* has an extensive range, its genetic diversity is severely limited. All of today’s cultivars are the descendants of two arabica varieties that underwent successive reductions in genetic diversity as they radiated from Yemen.[^29] This homogeneity is exacerbated by the fact that arabica coffee is self-fertilizing, meaning it can reproduce using its own pollen instead of relying on other plants. Under a changing climate, arabica will struggle to adapt. 
+Genetic diversity is key to climate resilience. Species with a diverse gene pool are more likely to possess traits that are well suited for survival and reproduction in an altered environment.[^28] Although Arabica coffee has an extensive range, its genetic diversity is severely limited. All of today’s cultivars are the descendants of two Arabica varieties that underwent successive reductions in genetic diversity as they radiated from Yemen.[^29] This homogeneity is exacerbated by the fact that Arabica tends to reproduce through self-fertilization, meaning it uses its own pollen instead of relying on other plants. Under a changing climate, cultivated coffee will struggle to adapt.
 <param ve-image
 	   src="wc:Coffee-farm-san-marcos-tarrazu-costa-rica.jpg"
 	   caption="Coffee farms in San Marcos, Costa Rica. Tarrazu via Wikimedia Commons.">
 
-The optimal growing conditions for *Coffea arabica* include temperatures between 57 and 79 degrees Fahrenheit, moderate rainfall, and an annual dry period of one to three months.[^30] These conditions will become harder to achieve in current coffee-growing regions as fossil fuel combustion and deforestation — including the clearing of forests for coffee farms — alter worldwide temperatures and weather patterns. Global warming and changes in precipitation will interfere with coffee plant growth, flowering, and fruiting, resulting in poor yields and lower-quality beans.[^31]
+The optimal growing conditions for Arabica coffee include temperatures between 57 and 79 degrees Fahrenheit, moderate rainfall, and an annual dry period of one to three months.[^30] These conditions will become harder to achieve in current coffee-growing regions as fossil fuel combustion and deforestation—including the clearing of forests for coffee farms—alter worldwide temperatures and weather patterns. Global warming and changes in precipitation will interfere with coffee plant growth, flowering, and fruiting, resulting in poor yields and lower-quality beans.[^31]
 <param ve-video
 	   src="A33NTsWxc-o"
 	   caption= "Climate Change and Coffee Products">
 
-Researchers predict that climate change will drastically reduce coffee-suitable lands in the coming decades. One study forecasts a 54 to 60 percent decline in the world’s most suitable areas for arabica cultivation by 2050.[^32] Another study estimates that Latin America could lose as much as 88 percent of its coffee-growing land by the same year.[^33]
+Researchers predict that climate change will drastically reduce coffee-suitable lands in the coming decades. One study projects that by 2050, the world’s most suitable areas for growing Arabica coffee could shrink by 54 to 60 percent.[^32] Another study estimates that Latin America could lose as much as 88 percent of its coffee-growing land by the same year.[^33]
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/coffea-arabica-suitability-2050.PNG"
 	   caption="Change in climate-suitable lands by 2050 under an intermediate emissions scenario. From Roman Grüter et al., [Expected global suitability of coffee, cashew and avocado due to climate change](https://doi.org/10.1371/journal.pone.0261976), *PLOS ONE* 17, no. 1 (2022).">
 
-*Coffea arabica* is further threatened by another climate-related shift: more frequent and severe outbreaks of pests and diseases. The effects of climate change on plant pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and altitudes that were once too cold for survival.
+Arabica is further threatened by another climate-related shift: more frequent and severe outbreaks of insect pests and plant diseases. The effects of climate change on insect pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and elevations that were once too cold for survival.
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/rising-temps-and-insect-pests.png"
 	   caption="Climate change generally benefits insects by promoting range expansion and boosting reproductive rates. Graphic by Nina Foster.">
 
-Such is the case for the coffee berry borer (*Hypothenemus hampei*), the world’s most damaging coffee pest.[^35] At less than two millimeters long, female borers infiltrate coffee fruit and feed on the developing seeds, creating galleries in which to lay as many as 100 eggs. The larvae feast on the seed in which they hatch, further reducing its size and quality. The beetle has spread from West Africa to almost all coffee-producing regions, resulting in yearly losses that easily surpass 500 million dollars.[^36]
+Such is the case for the coffee berry borer (*Hypothenemus hampei*), the world’s most notorious coffee insect pest.[^35] At less than two millimeters long, the female beetles bore into coffee fruits and feed on the developing seeds, creating galleries in which they can lay as many as 100 eggs. The larvae feast on the seed in which they hatch, further reducing its size and quality. The beetle has spread from West Africa to almost all coffee-producing regions, resulting in yearly losses that easily surpass 500 million dollars.[^36]
 <param ve-compare
 	   src="wc:Coffee_berry_borer2.jpg"
 	   caption="Swipe across the images to see the impact of a coffee berry borer infestation.">
 <param ve-compare
 	   src="wc:Amy_farms_typica_hybrid_coffee_beans.jpg">
 
-Farmers typically treat coffee berry borer infestations by spraying chemical insecticides, releasing biological control agents, or removing and destroying infested coffee berries. However, the adoption and effectiveness of these practices vary based on cost, labor availability, and producer knowledge. Under climate change, the problem will only get worse. The beetle is expected to plague previously inaccessible regions, and its developmental time has been shown to decrease with warmer temperatures, meaning more insect generations and more damage.[^37]
+Farmers typically treat these infestations by spraying chemical insecticides, releasing biological control agents, or removing and destroying infested coffee berries. However, the adoption and effectiveness of these practices vary based on cost, labor availability, and producer knowledge. With climate change, the problem will only get worse. The beetle is expected to plague previously unaffected regions, and its developmental time has been shown to decrease with warmer temperatures, meaning more insect generations and more damage.[^37]
 <param ve-image
 	   src="wc:Finca_La_Esperanza.jpg"
 	   caption="A coffee producer in Nicaragua inspects a coffee berry borer trap on his farm. Morgan Arnold via Wikimedia Commons.">
 
-Climate change could also intensify outbreaks of coffee leaf rust. Like the coffee berry borer, this disease has caused widespread destruction since its initial identification in the nineteenth century.[^38] The ailment blemishes coffee leaves with yellow and brown spots, coating their undersides with a fine orange dust. Infected trees lose their rusted leaves, produce lower yields, and usually die within a few years. In 2011, an epidemic that began in Central America damaged crops on roughly 70 percent of Latin American coffee farms, causing more than three billion dollars in damage by 2021. Now, higher temperatures and extreme weather events like flooding may create environments that are more conducive to the growth of Hemileia vastatrix, the fungal pathogen responsible for the disease.[^39]
+Climate change could also intensify outbreaks of coffee leaf rust (*Hemileia vastatrix*). This fungal pathogen has caused extensive damage since it was first identified in the nineteenth century.[^38] The ailment blemishes coffee leaves with yellow and brown spots, coating their undersides with orange fungal spores. Infected trees lose their rusted leaves, produce lower yields, and usually die within a few years. In 2011, an epidemic that began in Central America damaged crops on roughly 70 percent of Latin American coffee farms, causing more than three billion dollars in damages by 2021. Now, higher temperatures and extreme weather events like flooding may create environments that are more conducive to the growth of the pathogen.[^39]
 <param ve-compare
 	   src="wc:Hemileia_vastatrix.jpg"
 	   caption="Swipe across the images to compare healthy coffee leaves with those infected by coffee leaf rust.">
 <param ve-compare
 	   src="wc:Coffea_arabica_Kawa_arabska_2021-0-09_01.jpg">
 
-These challenges send ripples throughout the supply chain. In January 2025, poor growing seasons due to drought, frost, and floods in Brazil and Vietnam caused coffee prices to soar.[^40] Low yields, coupled with rising demand, drove the retail price of ground coffee to an all-time high of seven dollars per pound, up from four dollars in January 2020.
+These challenges send ripples throughout the supply chain. In January 2025, coffee prices soared as a result of poor growing seasons due to drought, frost, and floods in Brazil and Vietnam.[^40] Low yields, coupled with rising demand, drove the retail price of ground coffee to an all-time high of seven dollars per pound, up from four dollars in January 2020. In theory, higher prices should yield higher profits for coffee growers—but it’s not that simple. The costs of labor, fertilizers, and other inputs are rising alongside coffee prices.[^41] Some coffee growers are concerned that coffee drinkers may limit their consumption in response to high prices, opting for cheaper sodas or energy drinks to satisfy their caffeine cravings.[^42]
 <param ve-video
 	   src="4VePbuE9iIk"
 	   caption="Global Coffee Prices Rise as Drought Hits Brazil">
@@ -232,9 +230,9 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 
 [^1]: National Coffee Association, "Sustainability," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/sustainability/.
 [^2]: The ratio of Arabica to robusta for 2025/2026 production is almost one-to-one (97,022 bags for Arabica and 81,658 for robusta). United States Department of Agriculture Foreign Agricultural Service, *Coffee: World Markets and Trade* (USDA, 2024), 6, https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf; Amelia Shister Graytock, *Is Robusta on the Rise? Trends in Coffee Species Trade* (U.S. International Trade Commission, 2024), https://www.usitc.gov/publications/332/executive_briefings/ebot_robusta_on_the_rise.pdf.
-[^3]: Royal Botanic Gardens, Kew, "Arabica coffee," accessed Mary 19, 2025, https://www.kew.org/plants/arabica-coffee. 
+[^3]: Royal Botanic Gardens, Kew, "Arabica Coffee," accessed Mary 19, 2025, https://www.kew.org/plants/arabica-coffee. 
 [^4]: USDA, *Coffee*, 6.
-[^5]: A Public Affair, "How many hands touch your coffee before you drink it?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
+[^5]: A Public Affair, "How Many Hands Touch Your Coffee Before You Drink It?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
 [^6]: National Coffee Association, "History of Coffee," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/origins/history-of-coffee/. 
 [^7]: This paper refers to the English translation of the treatise, which was originally published in Latin: Faustus Naironus Banesius, *A Discourse on Coffee: Its Description and Vertues* (London: George James, 1710), https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/mode/1up. 
 [^8]: Frederick L. Wellman, *Coffee: Botany, Cultivation, and Utilization* (London: Leonard Hill Books, 1910), 8. 
@@ -255,23 +253,24 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^23]: Steve Pincus, "'Coffee Politicians Does Create': Coffeehouses and Restoration Political Culture," *The Journal of Modern History* 67, no. 4 (1995): 809, http://www.jstor.org/stable/2124756.
 [^24]: Wolfgang Schivelbusch, *Tastes of Paradise: A Social History of Spices, Stimulants, and Intoxicants* (Pantheon Books, 1992), 69.
 [^25]: Schivelbusch, 39. 
-Research and Markets, *Coffee Market Size and Share Analysis – Growth Trends and Forecast Report 2025-2033* (Research and Markets, 2025).
-[^25]: John Frederick Frank, "Coffee Hour," *Poetry* 71, no. 3 (1947): 133, http://www.jstor.org/stable/20590301.
-[^26]: United States Department of Agriculture Foreign Agricultural Service, "Production — Coffee," USDA, accessed May 19, 2025, https://www.fas.usda.gov/data/production/commodity/0711100. 
-[^27]: United States Department of Agriculture Foreign Agricultural Service, *Coffee: World Markets and Trade* (USDA, 2024), https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf. 
+[^26]: John Frederick Frank, "Coffee Hour," *Poetry* 71, no. 3 (1947): 133, http://www.jstor.org/stable/20590301.
+[^27]: Research and Markets, *Coffee Market Size and Share Analysis – Growth Trends and Forecast Report 2025-2033* (Research and Markets, 2025); USDA, *Coffee: World Markets and Trade*, 2.  
 [^28]: Kishan Birader, "Genetic Diversity and the Adaptation of Species to Changing Environments," *Journal of Biodiversity & Endangered Species* 11, no. 3 (2023): 474.
-[^29]: François Anthony et al., "The origin of cultivated Coffea arabica L. varieties revealed by AFLP and SSR markers," *Theoretical and Applied Genetics* 104 (2002): 899, https://doi.org/10.1007/s00122-001-0798-8.
-[^30]: Selena Ahmed et al., "Climate Change and Coffee Quality: Systematic Review on the Effects of Environmental and Management Variation on Secondary Metabolites and Sensory Attributes of Coffea arabica and Coffea canephora," *Frontiers in Plant Science* 12 (2021): 3, https://doi.org/10.3389/fpls.2021.708013. 
-[^31]: Goytom Abraha Kahsay et al., "New coffee varieties as a climate adaptation strategy: Empirical evidence from Costa Rica," *World Development Sustainability* 2 (2023): 1, https://doi.org/10.1016/j.wds.2023.100046.
-[^32]: Roman Grüter et al., "Expected global suitability of coffee, cashew and avocado due to climate change," *PLOS One* 17, no. 1 (2022): 8, https://doi.org/10.1371/journal.pone.0261976. 
+[^29]: François Anthony et al., "The Origin of Cultivated *Coffea arabica* L. Varieties Revealed by AFLP and SSR Markers," *Theoretical and Applied Genetics* 104 (2002): 899, https://doi.org/10.1007/s00122-001-0798-8.
+[^30]: Selena Ahmed et al., "Climate Change and Coffee Quality: Systematic Review on the Effects of Environmental and Management Variation on Secondary Metabolites and Sensory Attributes of *Coffea arabica and Coffea canephora,*" *Frontiers in Plant Science* 12 (2021): 3, https://doi.org/10.3389/fpls.2021.708013. 
+[^31]: Goytom Abraha Kahsay et al., "New Coffee Varieties as a Climate Adaptation Strategy: Empirical Evidence from Costa Rica," *World Development Sustainability* 2 (2023): 1, https://doi.org/10.1016/j.wds.2023.100046.
+[^32]: Roman Grüter et al., "Expected Global Suitability of Coffee, Cashew and Avocado Due to Climate Change," *PLOS One* 17, no. 1 (2022): 8, https://doi.org/10.1371/journal.pone.0261976. 
 [^33]: Pablo Imbach et al., "Coupling of Pollination Services and Coffee Suitability under Climate Change," *Proceedings of the National Academy of Sciences of the United States of America* 114, no. 39 (2017): 10438, https://www.jstor.org/stable/26488042. 
-[^34]: Jeffrey S. Bale et al., "Herbivory in global climate change research: direct effects of rising temperature on insect herbivores," *Global Change Biology* 8, no. 1 (2002): 7, https://doi.org/10.1046/j.1365-2486.2002.00451.x. 
-[^35]: Natalia Moreno-Ramirez et al., "Ecology and management of the coffee berry borer (*Hypothenemus hampei*): the potential of biological control," *BioControl* 69 (2024): 199, https://doi.org/10.1007/s10526-024-10253-6. 
-[^36]: Sarada Krishnan et al., "Vulnerability of coffee (*Coffea* spp.) genetic resources in the United States," *Genetic Resources and Crop Evolution* 68 (2021): 2699, https://doi.org/10.1007/s10722-021-01217-1. 
+[^34]: Jeffrey S. Bale et al., "Herbivory in Global Climate Change Research: Direct Effects of Rising Temperature on Insect Herbivores," *Global Change Biology* 8, no. 1 (2002): 7, https://doi.org/10.1046/j.1365-2486.2002.00451.x. 
+[^35]: Natalia Moreno-Ramirez et al., "Ecology and Management of the Coffee Berry Borer (*Hypothenemus hampei*): The Potential of Biological Control," *BioControl* 69 (2024): 199, https://doi.org/10.1007/s10526-024-10253-6. 
+[^36]: Sarada Krishnan et al., "Vulnerability of Coffee (*Coffea* spp.) Genetic Resources in the United States" *Genetic Resources and Crop Evolution* 68 (2021): 2699, https://doi.org/10.1007/s10722-021-01217-1. 
 [^37]: Lewis H. Ziska et al., "Climate Change, Carbon Dioxide, and Pest Biology, Managing the Future: Coffee as a Case Study" *Agronomy* 8, no. 152 (2018): 6, https://doi.org/10.3390/agronomy8080152.
 [^38]: Encyclopedia Britannica, "Coffee Rust," Britannica, accessed May 19, 2025, https://www.britannica.com/science/coffee-rust.
-[^39]: Ziska et al., "Climate Change, Carbon Dioxide, and Pest Biology," 3. 
+[^39]: Ziska et al., 3. 
 [^40]: Ben Brasch, "Why your coffee fix has gotten so pricey — and it will only get worse," *The Washington Post*, February 26, 2025, https://www.washingtonpost.com/business/2025/02/26/coffee-price-inflation-tariffs/. 
+[^41]: Sarah Charles, "How Roasters and Producers are Adapting to Changing Coffee Prices," *Coffee Intelligence*, March 11, 2025, https://intelligence.coffee/2025/03/adapting-to-changing-coffee-prices/. 
+[^42]: Peter S. Goodman, "Coffee Prices Are at a 50-Year High. Producers Aren’t Celebrating," *The New York Times*, February 22, 2025, https://www.nytimes.com/2025/02/22/business/coffee-prices-climate-change.html?smid=url-share.
+
 [^41]: Kathryn Lewis, "What’s causing coffee market volatility?" Global Coffee Report, November 21, 2024, https://www.gcrmag.com/whats-causing-coffee-market-volatility/.
 [^42]: Ephrat Livni, "Forced Labor Taints Brazilian Coffee, Say Complaints to U.S. Authorities," *The New York Times*, April 24, 2025, https://www.nytimes.com/2025/04/24/world/americas/brazil-coffee-slave-labor.html?smid=url-share.
 [^43]: Sarah G. Grant, "Complicated Webs: Experiential Risk in the Vietnamese Coffee Industry," *Political and Legal Anthropology Review* 44, no. 1 (2021): 76.
