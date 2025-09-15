@@ -23,19 +23,19 @@ Arabica became an agent of connection and community building where it was grown 
 	   src="faTsRV7bkEc"
 	   caption="Coffee: From Farm to Cup">
 
-Demand for coffee continues to grow, but the future of the industry is uncertain. The supply chain is marred by labor exploitation, price volatility, and environmental destruction. Arabica coffee is especially vulnerable to climate change and its associated impacts, such as rising temperatures, altered precipitation, and increased pressure from pests and pathogens. Researchers have proposed a number of solutions to protect the plant and other coffee species, each with unique benefits and challenges. These suggestions, if implemented thoughtfully and collaboratively by industry stakeholders, can help safeguard coffee production — and with it, a rich global history. 
+Demand for coffee continues to grow, but the future of the industry is uncertain. In addition to concerns over price volatility and labor conditions on coffee farms, Arabica coffee is especially vulnerable to climate change and its associated impacts, such as rising temperatures, altered precipitation, and increased pressure from insect pests and plant pathogens. Researchers have proposed a number of solutions to protect the plant and other coffee species, each with unique benefits and challenges. These suggestions, if implemented thoughtfully and collaboratively by industry stakeholders, can help safeguard coffee production—and with it, the enduring legacy of a rich global history. 
 <param ve-image
 	   src="wc:Change_in_Average_Temperature_With_Fahrenheit.svg"
-	   caption="Global Warming, 1973-2023. NASA’s Scientific Visualization Studio via Wikimedia Commons"> 
+	   caption="Global Warming, 1973-2023. NASA’s Scientific Visualization Studio via Wikimedia Commons."> 
 	   
 ### From Ethiopia to the World
 
-The early years of coffee consumption are shrouded in mystery. Most coffee historians have encountered a legend about an Ethiopian goat herder named Kaldi, whose livestock became more energetic after eating cherries from a coffee plant.[^5] Intrigued, he tried the fruit for himself and felt a thrilling rush of vitality. As the story goes, he shared his findings with monks at a nearby monastery, initiating coffee’s rise to fame. 
+The early years of coffee consumption are shrouded in mystery. Most coffee historians have encountered the legend about an Ethiopian goat herder named Kaldi, who noticed his livestock became more energetic after eating the fruits from a coffee plant.[^6] Intrigued, he tried the fruit for himself and felt a thrilling rush of vitality. As the story goes, Kaldi shared his findings with monks at a nearby monastery, initiating coffee’s rise to fame. 
 <param ve-video
-	   src="TCfujNkhQd8"
+	   src="BU-0e6OLIf0"
 	   caption="The Legend of Kaldi">
 
-Kaldi’s supposed discovery of coffee is said to date back to the ninth century, but the earliest written record with any resemblance to the myth appears much later. Mehrej Ibn Nimrûm, a Maronite scholar and priest also known as Antonio Faustus Naironi or Banesius, was the first to reference the legend in his 1671 treatise on coffee’s history and virtues.[^6] Instead of Ethiopia, the story is set in Yemen, where arabica arrived as early as the sixth century.[^7] Nimrûm describes a man who complained to monastics that his livestock — camels in some variations, goats in others — were "frisking and dancing" instead of sleeping.[^8] The head of the monastery purportedly visited the pasture and, after locating the fruits upon which the livestock fed, "resolved to try the virtues of these berries himself; thereupon, boiling them in water, and drinking thereof, he found by experience, it kept him awake in the night."[^9] He then told his fellow monks about the beverage, offering revitalization in their pursuit of the divine. 
+It is believed that Kaldi’s alleged discovery of coffee dates to the ninth century, but the earliest written record with any resemblance to the myth appears much later. Mehrej Ibn Nimrûm, a Maronite scholar and priest also known as Antonio Faustus Naironi or Banesius, was the first to reference the legend in his 1671 treatise on coffee’s history and virtues.[^7] Instead of Ethiopia, the story is set in Yemen, where Arabica arrived as early as the sixth century.[^8] Nimrûm describes a man who complained to monastics that his livestock—camels in some variations, goats in others—were "frisking and dancing" instead of sleeping.[^9] The head of the monastery purportedly visited the pasture and, after locating the fruits upon which the livestock fed, "resolved to try the virtues of these berries himself; thereupon, boiling them in water, and drinking thereof, he found by experience, it kept him awake in the night."[^10] He then told his fellow monks about the beverage, offering revitalization in their pursuit of the divine. 
 <param ve-iframe
 	   src="https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/page/n9">
 
@@ -226,7 +226,7 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^3]: Royal Botanic Gardens, Kew, "Arabica coffee," accessed Mary 19, 2025, https://www.kew.org/plants/arabica-coffee. 
 [^4]: USDA, *Coffee*, 6.
 [^5]: A Public Affair, "How many hands touch your coffee before you drink it?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
-[^5]: National Coffee Association, "History of Coffee," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/origins/history-of-coffee/. 
+[^6]: National Coffee Association, "History of Coffee," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/origins/history-of-coffee/. 
 [^6]: This paper refers to the English translation of the treatise, which was originally published in Latin: Faustus Naironus Banesius, *A Discourse on Coffee: Its Description and Vertues* (London: John Morphew, 1710), https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/mode/1up.
 [^7]: Frederick L. Wellman, *Coffee: Botany, Cultivation, and Utilization* (London: Leonard Hill Books, 1910), 8. 
 [^8]: Banesius, *A Discourse on Coffee*, 4–5. 
