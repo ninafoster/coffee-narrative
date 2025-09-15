@@ -8,7 +8,7 @@
        author="Nina Foster"
        layout="vertical">
 	  
-Coffee is one of the world’s most important agricultural commodities, supporting the livelihoods of an estimated 125 million people.[^1] There are more than 120 species in the *Coffea* genus, but one in particular has dominated the industry: Arabica coffee (*Coffea arabica*). The plant accounts for approximately two-thirds of global coffee production.[^2]
+Coffee is one of the world’s most important agricultural commodities, supporting the livelihoods of an estimated 125 million people.[^1] With more than 120 species in the genus *Coffea*, one in particular has dominated global production, trade, and consumption, and is prized for its impeccable cup quality: Arabica coffee (*Coffea arabica*). The plant historically accounted for at least two-thirds of the world’s coffee production, though the second-most cultivated coffee species, robusta (*Coffea canephora*), is on the rise.[^2]
 <param ve-image
 	   src="wc:Coffee_plant_(Coffea_arabica);_flowering_and_fruiting_stem_w_Wellcome_V0044270.jpg"
 	   caption="*Coffea arabica* branch. Hand-colored engraving by J. Miller, c. 1774, after S. Taylor. From John Ellis' *An Historical Account of Coffee*. Wellcome Collection via Wikimedia Commons.">
@@ -222,8 +222,8 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 	   caption="A handful of coffee’s cherished fruit. Wikimedia Commons.">
 
 [^1]: National Coffee Association, "Sustainability," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/sustainability/.
-[^2]: Amelia Shister Graytock, *Is Robusta on the Rise? Trends in Coffee Species Trade* (U.S. International Trade Commission, 2024), https://www.usitc.gov/publications/332/executive_briefings/ebot_robusta_on_the_rise.pdf.
-[^3]: Kew Royal Botanic Gardens, "Arabica coffee," accessed Mary 19, 2025, https://www.kew.org/plants/arabica-coffee. 
+[^2]: The ratio of Arabica to robusta for 2025/2026 production is almost one-to-one (97,022 bags for Arabica and 81,658 for robusta). United States Department of Agriculture Foreign Agricultural Service, *Coffee: World Markets and Trade* (USDA, 2024), 6, https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf; Amelia Shister Graytock, *Is Robusta on the Rise? Trends in Coffee Species Trade* (U.S. International Trade Commission, 2024), https://www.usitc.gov/publications/332/executive_briefings/ebot_robusta_on_the_rise.pdf.
+[^3]: Royal Botanic Gardens, Kew, "Arabica coffee," accessed Mary 19, 2025, https://www.kew.org/plants/arabica-coffee. 
 [^4]: A Public Affair, "How many hands touch your coffee before you drink it?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
 [^5]: National Coffee Association, "History of Coffee," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/origins/history-of-coffee/. 
 [^6]: This paper refers to the English translation of the treatise, which was originally published in Latin: Faustus Naironus Banesius, *A Discourse on Coffee: Its Description and Vertues* (London: John Morphew, 1710), https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/mode/1up.
