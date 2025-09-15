@@ -13,12 +13,12 @@ Coffee is one of the world’s most important agricultural commodities, supporti
 	   src="wc:Coffee_plant_(Coffea_arabica);_flowering_and_fruiting_stem_w_Wellcome_V0044270.jpg"
 	   caption="*Coffea arabica* branch. Hand-colored engraving by J. Miller, c. 1774, after S. Taylor. From John Ellis' *An Historical Account of Coffee*. Wellcome Collection via Wikimedia Commons.">
 
-Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to round, fleshy fruits containing the pale seeds known as coffee beans. Through networks of trade and conquest, this plant has traveled across the "Coffee Belt," a region between the Tropics of Cancer and Capricorn with ideal conditions for coffee cultivation.
+Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, Arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to oval, fleshy fruits, each containing the two pale seeds we call coffee beans. Through networks of trade and conquest, the plant has traveled across the tropics, where conditions are ideal for coffee cultivation. Today, Brazil, Colombia, and Ethiopia rank among the leading producers of the crop.[^4]
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/coffee-belt.png"
 	   caption="Map of the tropics, where conditions are ideal for coffee cultivation. Nina Foster, ArcGIS.">
 
-As arabica spread beyond its native range, the plant became an agent of connection and community building. Coffeehouses have served as centers of intellectual and cultural exchange for centuries. Countless relationships have been sparked by the question, "Do you want to meet for coffee?" Between planting, picking, processing, milling, and every other step of the supply chain, coffee is touched by at least nine separate hands before it reaches the consumer.[^4]
+Arabica became an agent of connection and community building where it was grown and, further down the supply chain, where it was consumed. Coffeehouses have served as centers of intellectual and cultural exchange for centuries. Countless relationships have been sparked by the question, "Do you want to meet for coffee?" Between planting, harvesting, processing, milling, roasting, and every other step of production and distribution, coffee is touched by at least nine sets of hands before it reaches the consumer.[^5]
 <param ve-video
 	   src="faTsRV7bkEc"
 	   caption="Coffee: From Farm to Cup">
@@ -224,7 +224,8 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^1]: National Coffee Association, "Sustainability," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/sustainability/.
 [^2]: The ratio of Arabica to robusta for 2025/2026 production is almost one-to-one (97,022 bags for Arabica and 81,658 for robusta). United States Department of Agriculture Foreign Agricultural Service, *Coffee: World Markets and Trade* (USDA, 2024), 6, https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf; Amelia Shister Graytock, *Is Robusta on the Rise? Trends in Coffee Species Trade* (U.S. International Trade Commission, 2024), https://www.usitc.gov/publications/332/executive_briefings/ebot_robusta_on_the_rise.pdf.
 [^3]: Royal Botanic Gardens, Kew, "Arabica coffee," accessed Mary 19, 2025, https://www.kew.org/plants/arabica-coffee. 
-[^4]: A Public Affair, "How many hands touch your coffee before you drink it?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
+[^4]: USDA, *Coffee*, 6.
+[^5]: A Public Affair, "How many hands touch your coffee before you drink it?" WORT Community Radio, Madison, WI: WORT-FM 89.9, June 3, 2024, https://www.wortfm.org/how-many-hands-touch-your-coffee-before-you-drink-it/. 
 [^5]: National Coffee Association, "History of Coffee," About Coffee, accessed May 19, 2025, https://www.aboutcoffee.org/origins/history-of-coffee/. 
 [^6]: This paper refers to the English translation of the treatise, which was originally published in Latin: Faustus Naironus Banesius, *A Discourse on Coffee: Its Description and Vertues* (London: John Morphew, 1710), https://archive.org/details/bim_eighteenth-century_a-discourse-on-coffee-i_naironus-antonius-faust_1710/mode/1up.
 [^7]: Frederick L. Wellman, *Coffee: Botany, Cultivation, and Utilization* (London: Leonard Hill Books, 1910), 8. 
