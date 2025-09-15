@@ -137,88 +137,80 @@ These challenges send ripples throughout the supply chain. In January 2025, coff
 	   src="4VePbuE9iIk"
 	   caption="Global Coffee Prices Rise as Drought Hits Brazil">
 
-Climate change impacts both the arabica coffee plant and the billions of people with a relationship to the crop, exacerbating the challenges that industry stakeholders already face. Extreme weather events, inflation, interest rates, unstable energy prices, and global conflicts drive market volatility.[^41] Labor conditions on some farms have been likened to slavery, depriving workers of running water, beds, toilets, or pay.[^42] Several coffee farmers and producers have little negotiating power in coffee supply chains, forced to get by on meager payments for their crops. In an ethnographic study of the Vietnamese coffee industry, Sarah G. Grant describes "a complicated web of risks and uncertainty" in which the decisions of state and global actors often fail to meet the needs of farmers.[^43]
+Climate change impacts both the coffee plant and the billions of people with a relationship to the crop, exacerbating the challenges that industry stakeholders already face. Extreme weather events, inflation, interest rates, unstable energy prices, and global conflicts drive market volatility.[^43] Some farmers toil under intense heat for eight to ten hours a day for very low wages.[^44] Smallholder farmers, who are responsible for at least 60 percent of the global coffee production, often have little negotiating power in coffee supply chains and are forced to get by on meager payments for their crops.[^45]. In an ethnographic study of the Vietnamese coffee industry, Sarah G. Grant describes "a complicated web of risks and uncertainty" in which the decisions of state and global actors often fail to meet the needs of farmers.[^46]
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/coffee-stakeholders.png"
 	   caption="Some of the stakeholders in the coffee industry. Graphic by Nina Foster.">
 
-Climate change will make coffee prices more unpredictable, labor conditions more hazardous, and economic losses more extreme. "For us, producing coffee is our life," said Honduran producer Moises Herrera in an interview with journalist Peter S. Goodman. "A lot of producers are starting to lose hope."[^44]
+Climate change will make coffee prices more unpredictable, labor conditions more hazardous under extreme heat, and economic losses more devastating. "For us, producing coffee is our life," said Honduran producer Moises Herrera in an interview with journalist Peter S. Goodman. "A lot of producers are starting to lose hope."[^47]
 <param ve-image
 	   src="wc:Coffee_farmer_-_triangulo_del_café.jpg"
 	   caption="A farmer in Colombia harvests ripe coffee berries. Maria del Pilar Ruiz via Wikimedia Commons.">
 
 ### Climate-proofing Coffee 
 
-In an ideal world, we would address the root cause of climate change by minimizing greenhouse gas emissions and protecting carbon sinks, such as oceans and forests. Unfortunately, our current climate mitigation policies are proving insufficient.[^45] The coffee industry must adapt accordingly. 
+In an ideal world, we would address the root cause of climate change by minimizing greenhouse gas emissions and protecting carbon sinks, such as oceans and forests. Unfortunately, our current climate mitigation policies are proving insufficient.[^48] The coffee industry must adapt accordingly. 
 <param ve-video
 	   src="fmBDZKOdbkY"
 	   caption="Climate Adaptation and Mitigation">
 
-Researchers have identified three main pathways to climate resilience in coffee production.[^46] The first involves relocating coffee farming to areas with suitable climates, including higher elevations. Although relocation would alleviate thermal stresses on coffee plants, the transition could result in the loss of livelihoods for farming communities at lower elevations as well as deforestation in favor of agricultural expansion.[^47]
+Researchers have identified three main pathways to climate resilience in coffee production.[^49] The first involves relocating coffee farming to areas with suitable climates, including higher elevations. Although relocation would alleviate thermal stresses on coffee plants, the transition could result in the loss of livelihoods for farming communities at lower elevations as well as deforestation in favor of agricultural expansion.[^50]
 <param ve-image
 	   src="wc:Coffee_tree_atop_the_Maricao_mountains_in_Puerto_Rico_(5661610485).jpg"
 	   caption="A coffee tree in bloom at high elevation in Puerto Rico. US Fish and Wildlife Service via Wikimedia Commons.">
 
-The second suggestion is to adopt sustainable farming practices like agroforestry, which integrates coffee plants with shade trees. In Central America, coffee was traditionally grown in agroforestry systems until the advent of the Green Revolution in the mid-twentieth century, which transformed agricultural operations in favor of higher yields.[^48] Coffee producers shifted to unshaded, intensive farms with dwarf coffee varieties that required substantial fertilizer and pesticide applications. Today, many arabica coffee growers recognize that a return to agroforestry would boost their plantation’s climate resilience, provide habitat for migratory birds and other wildlife, and reduce soil erosion. But the transition could also mean a drop in productivity and an increased risk of coffee leaf rust.[^49]
+The second pathway is to increase the adoption of sustainable farming practices like agroforestry, which integrates coffee plants with shade trees. In Central and South America, coffee was predominantly grown in agroforestry systems until the advent of the Green Revolution in the mid-twentieth century, which transformed agricultural operations in favor of higher yields and disease resistance.[^51] Many coffee farmers, most notably in Costa Rica and Colombia, shifted to unshaded, intensive farms with dwarf coffee varieties that required substantial fertilizer and pesticide applications.[^52] Today, those growing Arabica in full sun recognize that agroforestry would boost their plantation’s climate resilience, provide habitat for migratory birds and other wildlife, and reduce soil erosion. But the transition could also mean a drop in productivity and an increased risk of coffee leaf rust.[^53]
 <param ve-image
 	   src="wc:Café_bajo_sombra_-_49465736457.jpg"
 	   caption="Coffee growing in an agroforestry system in Puebla, Mexico. Feria  de Productores via Wikimedia Commons.">
 
-The third pathway — which has been called "the least disruptive, the most cost-effective, and probably the most successful" — is using the principles of genetics to develop climate-resilient coffee cultivars.[^50] Breeders played a pivotal role in the Green Revolution by creating the dwarf arabica plants that could grow more densely in monoculture than traditional varieties. Toward the end of the twentieth century, however, coffee breeding pivoted from an emphasis on productivity to address the growing concerns of climate change, pests and diseases, and cup quality.[^51]
+The third pathway—which is considered "the least disruptive, the most cost-effective, and probably the most successful"—is using the principles of genetics to develop climate-resilient coffee cultivars.[^54] Breeders played a key role in the Green Revolution by creating the dwarf Arabica plants that could grow more densely in monoculture than traditional varieties. Toward the end of the twentieth century, however, coffee breeding pivoted from an emphasis on productivity to address the growing concerns of climate change, pests and diseases, and cup quality.[^55]
 <param ve-image
 	   src="wc:DNA_Extraction_of_Bacteria.jpg"
 	   caption="Researchers extracting bacterial DNA. Iris Marie Kelly via Wikimedia Commons.">
 
-Using traditional plant breeding methods, scientists can develop hybrid coffee plants with desirable traits like disease resistance and drought tolerance. Current breeding efforts focus primarily on first-generation (F1) hybrid varieties, which are created by transferring pollen from the flower of one genetically distinct parent to another using a paintbrush, then planting the resulting seeds. Breeders typically cross wild *Coffea arabica* varieties from Sudan or Ethiopia with common American cultivars. According to World Coffee Research, "One of the key distinguishing features of F1 hybrids is their 'hybrid vigor,' which can translate into everything from higher yields, to wider climate adaptability, to resilience in the face of stresses like disease (e.g., coffee rust), frost, or drought."[^52]
+Using traditional plant breeding methods, scientists can develop hybrid coffee plants with desirable traits like disease resistance and drought tolerance. Current breeding efforts focus primarily on first-generation (F1) hybrid varieties, which are created by transferring pollen from the flower of one genetically distinct parent to another using a paintbrush, then planting the resulting seeds. Breeders typically cross wild Arabica varieties from Sudan or Ethiopia with common American cultivars. According to World Coffee Research, "One of the key distinguishing features of F1 hybrids is their 'hybrid vigor,' which can translate into everything from higher yields, to wider climate adaptability, to resilience in the face of stresses like disease (e.g., coffee rust), frost, or drought."[^56]
 <param ve-video
 	   src="xahFgSSLonQ"
 	   caption="Coffee Breeding">
 
-Early breeding efforts have prioritized the species and flavor profiles that consumers know and love: *Coffea arabica* and *Coffea robusta*, the second-most cultivated coffee species worldwide. But with more than 120 species of coffee to experiment with, researchers are starting to branch out. *Coffea stenophylla*, for instance, is a narrow-leaved species once farmed in Sierra Leone with a much higher temperature tolerance than arabica.[^53] The plant’s beans have been described as "superior to those of all other species."[^54] Their flavor resembles a premium arabica, with undertones of peach, jasmine, chocolate, and elderflower syrup. *Coffea stenophylla* produces comparatively low yields, but the plant’s heat resistance, coupled with the impeccable flavor of its beans, makes the species a promising contender for coffee breeding. 
+Early breeding efforts have prioritized Arabica and robusta, the species and flavor profiles that consumers know and love. But researchers are turning to other coffee species in search of climate-resilient traits. *Coffea stenophylla*, for instance, is a narrow-leaved species once farmed in Sierra Leone with a much higher temperature tolerance than Arabica.[^57] The plant’s beans have been described as "superior to those of all other species."[^58] Their flavor resembles a premium Arabica, with undertones of peach, jasmine, chocolate, and elderflower syrup. *Coffea stenophylla* produces comparatively low yields, but the plant’s heat tolerance, coupled with the impeccable cup quality, makes it a promising contender for coffee breeding. 
 <param ve-image
 	   src="wc:Coffea_stenophylla-Jardin_botanique_de_Berlin_(1).jpg"
 	   caption="*Coffea stenophylla* in the Berlin Botanic Garden. Ji-elle via Wikimedia Commons.">
 
-An additional benefit of F1 hybrids is their capacity to complement sustainable farming practices. A 2011 analysis of F1 hybrids in Central America found that the specialized plants not only produced earlier and higher yields than traditional American cultivars — they also performed better in agroforestry systems than in full sun.[^55]
+An additional benefit of F1 hybrids is their capacity to complement sustainable farming practices. A 2011 analysis of F1 hybrids in Central America found that the plants not only produced earlier and higher yields than traditional American cultivars; they also performed better in agroforestry systems than in full sun.[^59]
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/full-sun-v-agroforestry.png"
 	   caption="Comparison of the mean yield of traditional American coffee cultivars versus hybrids according to the cropping system. From B. Bertrand et al., [Performance of Coffea arabica F1 hybrids in agroforestry and full-sun cropping systems in comparison with American pure line cultivars](https://doi.org/10.1007/s10681-011-0372-7), *Euphytica* 181 (2011).">
 
-F1 hybrids are a promising climate solution, and a handful of cultivars have been made commercially available to farmers. However, costs and logistical challenges pose a barrier to widespread implementation. "It is neither simple nor cheap to introduce a new cultivar, which takes at least 12 to 16 years from generation to approval for commercial use," explain researchers in Brazil.[^56] The price of a hybrid coffee seedling is 40 to 160 percent higher than a seedling of a traditional variety, and caring for F1 hybrids requires additional labor, fertilizer applications, and management know-how.[^57] Still, the benefits of higher outputs and fewer losses may outweigh the extra costs. 
+F1 hybrids are a promising climate solution, and a handful of cultivars are now commercially available to farmers. However, costs and logistical challenges pose a barrier to widespread implementation. "It is neither simple nor cheap to introduce a new cultivar, which takes at least 12 to 16 years from generation to approval for commercial use," explain researchers in Brazil.[^60] The price of a hybrid coffee seedling is 40 to 160 percent higher than a seedling of a traditional variety, and caring for F1 hybrids requires additional labor, fertilizer applications, and management know-how.[^61] Still, the benefits of higher outputs and fewer losses may outweigh the extra costs, especially for large-scale farms. 
 <param ve-image
 	   src="wc:Coffee_seedlings_produced_by_Asencio_Sánchez_(5662148216).jpg"
 	   caption="Coffee seedlings in Puerto Rico. US Fish and Wildlife Service via Wikimedia Commons.">
 
-In addition to plant breeding, scientists are using genetic engineering to develop pest-resistant coffee plants. Much of the work thus far has focused on *Bacillus thuringiensis* (Bt), a bacterium whose proteins are toxic to many insect pests but not to humans or other animals. Geneticists have successfully integrated the DNA that codes for these proteins into the genomes of different crops, including corn, cotton, soybeans, and potatoes.[^58]
-<param ve-video
-	   src="nwQkhTB0M54"
-	   caption="Genetic Engineering with *Bacillus thuringiensis*"
-	   start="64"
-	   end="323">
-
-In 2000, researchers developed Bt-protected arabica plants that expressed resistance to the coffee leaf miner.[^59] More recently, a team sought out to determine whether the bacterium’s DNA could protect *Coffea arabica* from the coffee berry borer. The results were encouraging; the engineered plants induced 85 to 100 percent beetle mortality after 10 days with minimal seed damage.[^60] Unlike plant breeding, genetic engineering is still a relatively young field, and transgenic coffee plants have yet to hit the market.
-<param ve-image
-	   src="wc:Bt-toxin-crystals.jpg"
-	   caption="Crystals of the Bt toxin from *Bacillus thuringiensis*. Jim Buckman via Wikimedia Commons.">
-
-These endeavors, particularly coffee breeding, will rely on an abundance of genetic resources from which to select useful traits. Wild coffee species are an invaluable tool, offering the genetic variability that arabica cultivars lack. But many of these wild plants, like *Coffea arabica*, are losing suitable habitat to climate change and human activity. At least 60 percent of wild coffee species are threatened with extinction.[^61]
+Coffee breeding will rely on an abundance of genetic resources from which to select useful traits. Wild coffee species are an invaluable tool, offering the genetic variability that Arabica cultivars in the Americas lack. But many of these wild plants, like cultivated Arabica, are losing suitable habitat to climate change and human activity. At least 60 percent of the world’s wild coffee species are threatened with extinction.[^62]
 <param ve-image
 	   src="wc:Ethiopia%27s_Bale_Mountains_(MODIS_2021-01-19).jpg"
 	   caption="Aerial photo of Ethiopia’s Bale Mountains National Park, home to one of the largest natural stands of wild coffee genetic stock. NASA GSFC via Wikimedia Commons.">
 
-Preserving the genetic diversity of wild coffee species will require a combination of *in situ* conservation, which protects existing plants in their natural habitats, and *ex situ* conservation, which relocates plants to controlled environments.[^62] At present, *ex situ* collections are the primary method of conserving coffee genetic resources. Coffee is not a suitable candidate for long-term seed banking, because its seeds cannot be stored beyond two or three years. Instead, conservationists maintain collections of live coffee plants, pollen samples, and DNA.
+Preserving the genetic diversity of wild coffee species will require a combination of *in situ* conservation, which protects existing plants in their natural habitats, and *ex situ* conservation, which relocates plants to controlled environments.[^63] At present, *ex situ* collections are the primary method of conserving coffee genetic resources. Coffee is not a suitable candidate for long-term seed banking, because its seeds are sensitive to drying and freezing and cannot survive storage beyond two or three years.[^64] Instead, collections must care for live coffee plants.
 <param ve-image
 	   src="gh:ninafoster/playground/main/coffee/countries-with-ex-situ-field-collections.png"
 	   caption="Countries with *ex situ* field collections of coffee. Nina Foster, ArcGIS.">
+	   
+Just over half of all coffee species are preserved in germplasm collections. But researchers argue that the current system is "not sustainable, secure, cost effective, or rational."[^65] Most genetic resources are contained in nationally focused collections that are isolated from each other and from external users. Disagreements arise over ownership of genetic material. Furthermore, the collections often struggle with funding, outdated facilities, and staffing shortages. Many are located in ecological conditions that are ill-suited for plant performance or survival, leading to inappropriate cultivation methods and the loss of coffee trees.[^66] To more effectively conserve coffee genetic resources, stakeholders will have to expand protected areas and address the challenges that *ex situ* collections currently face. 
+
+MEDIA COMPONENT
 
 ### Brewing Partnerships 
 
-A central theme emerges in publications on coffee, climate change, and the preservation of genetic resources. Several authors emphasize the need for improved collaboration and communication among industry stakeholders. For example, the Innovea Global Arabica Breeding Network — a global breeding effort led by World Coffee Research — argues that "individual national research programs face significant limitations working alone."[^63] Similarly, the authors of the 2017 *Global Conservation Strategy for Coffee Genetic Resources* write, "The global community will need to operate together as a platform for collaboration on conservation, breeding, research, and enhanced use."[^64]
+A central theme emerges in publications on coffee, climate change, and the preservation of genetic resources. Several authors emphasize the need for improved collaboration and communication among industry stakeholders. For example, the Innovea Global Arabica Breeding Network—a global breeding effort led by World Coffee Research—argues that "individual national research programs face significant limitations working alone."[^67] Similarly, the authors of the 2017 *Global Conservation Strategy for Coffee Genetic Resources* write, "The global community will need to operate together as a platform for collaboration on conservation, breeding, research, and enhanced use."[^68]
 <param ve-image
 	   src="wc:Coffee_and_Friends_(Unsplash).jpg"
 	   caption="Coffee is an agent of connection. Nathan Dumlao via Wikimedia Commons.">
 
-Failing to adapt coffee to climate change would be catastrophic for the millions who depend on the crop for their livelihoods, particularly for the farmers and producers who are already struggling to make ends meet. For these climate solutions to be truly sustainable, researchers and policymakers must embrace cross-cultural dialogue and consider the inconsistencies and inequities of the coffee industry. 
+Failing to adapt coffee to climate change would be catastrophic for the millions who depend on the crop for their livelihoods, especially the farmers who are already struggling to make ends meet. It won’t be easy, but for these climate solutions to be sustainable, researchers and policymakers must embrace cross-cultural dialogue and decide on a path forward that all stakeholders can agree to.  
 <param ve-image
 	   src="wc:Harvesting_coffee,_Sao_Paulo,_Brazil,_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg"
 	   caption="Coffee farmers in Sao Paulo, Brazil, 1923. Artemas Ward via Wikimedia Commons.">
@@ -267,31 +259,32 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^37]: Lewis H. Ziska et al., "Climate Change, Carbon Dioxide, and Pest Biology, Managing the Future: Coffee as a Case Study" *Agronomy* 8, no. 152 (2018): 6, https://doi.org/10.3390/agronomy8080152.
 [^38]: Encyclopedia Britannica, "Coffee Rust," Britannica, accessed May 19, 2025, https://www.britannica.com/science/coffee-rust.
 [^39]: Ziska et al., 3. 
-[^40]: Ben Brasch, "Why your coffee fix has gotten so pricey — and it will only get worse," *The Washington Post*, February 26, 2025, https://www.washingtonpost.com/business/2025/02/26/coffee-price-inflation-tariffs/. 
+[^40]: Ben Brasch, "Why Your Coffee Fix Has Gotten So Pricey—And It Will Only Get Worse," *The Washington Post*, February 26, 2025, https://www.washingtonpost.com/business/2025/02/26/coffee-price-inflation-tariffs/. 
 [^41]: Sarah Charles, "How Roasters and Producers are Adapting to Changing Coffee Prices," *Coffee Intelligence*, March 11, 2025, https://intelligence.coffee/2025/03/adapting-to-changing-coffee-prices/. 
 [^42]: Peter S. Goodman, "Coffee Prices Are at a 50-Year High. Producers Aren’t Celebrating," *The New York Times*, February 22, 2025, https://www.nytimes.com/2025/02/22/business/coffee-prices-climate-change.html?smid=url-share.
-
-[^41]: Kathryn Lewis, "What’s causing coffee market volatility?" Global Coffee Report, November 21, 2024, https://www.gcrmag.com/whats-causing-coffee-market-volatility/.
-[^42]: Ephrat Livni, "Forced Labor Taints Brazilian Coffee, Say Complaints to U.S. Authorities," *The New York Times*, April 24, 2025, https://www.nytimes.com/2025/04/24/world/americas/brazil-coffee-slave-labor.html?smid=url-share.
-[^43]: Sarah G. Grant, "Complicated Webs: Experiential Risk in the Vietnamese Coffee Industry," *Political and Legal Anthropology Review* 44, no. 1 (2021): 76.
-[^44]: Peter S. Goodman, "Coffee Prices Are at a 50-Year High. Producers Aren’t Celebrating," *The New York Times*, February 22, 2025, https://www.nytimes.com/2025/02/22/business/coffee-prices-climate-change.html?smid=url-share. 
-[^45]: United Nations Environment Programme, *Emissions Gap Report 2024: No more hot air … please!* (United Nations, 2024), XIII, https://www.unep.org/resources/emissions-gap-report-2024. 
-[^46]: Aaron P. Davis et al., "Arabica-like flavour in a heat-tolerant wild coffee species," *Nature Plants* 7 (2021): 413, https://doi.org/10.1038/s41477-021-00891-4. 
-[^47]: Ainhoa Magrach and Jaboury Ghazoul, "Climate and Pest-Driven Geographic Shifts in Global Coffee Production: Implications for Forest Cover, Biodiversity and Carbon Storage," *PLOS One* 10, no. 7 (2015): 1, https://doi.org/10.1371/journal.pone.0133071. 
-[^48]: B. Bertrand et al., "Performance of *Coffea arabica* F1 hybrids in agroforestry and full-sun cropping systems in comparison with American pure line cultivars," *Euphytica* 181 (2011): 148, https://doi.org/10.1007/s10681-011-0372-7. 
-[^49]: Philippe Vaast, "Fruit thinning and shade improve bean characteristics and beverage quality of coffee (*Coffea arabica* L.) under optimal conditions," *Journal of the Science of Food and Agriculture* 86, no. 2 (2005): 197, https://doi.org/10.1002/jsfa.2338; D.F. López-Bravo et al., "Shade is conducive to coffee rust as compared to full sun exposure under standardized fruit load conditions," *Crop Protection* 38 (2012): 21, https://doi.org/10.1016/j.cropro.2012.03.011.
-[^50]: Aaron P. Davis et al., "The re-emergence of Liberica coffee as a major crop plant," *Nature Plants* 8 (2022): 1322, https://doi.org/10.1038/s41477-022-01309-5. 
-[^51]: Stuart McCook and Andrea Montero-Mora, "Coffee breeding in a time of crisis: F1 hybrids in Central America since 1990," *Plants People Planet* 6 (2024): 1070, https://doi.org/10.1002/ppp3.10480. 
-[^52]: World Coffee Research, "F1 Hybrid Trials," accessed May 20, 2025, https://worldcoffeeresearch.org/programs/next-generation-f1-hybrid-varieties.
-[^53]: Aaron P. Davis et al., "Arabica-like flavor," 415. 
-[^54]: Marta Zaraska, "How a Forgotten Bean Could Save Coffee From Extinction," *Smithsonian Magazine*, April 2025, 8, https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/. 
-[^55]: Bertrand et al., "Performance of Coffea arabica F1 hybrids," 147.
-[^56]: Gabriele Dias Cássia et al., "Climate risks and vulnerabilities of the Arabica coffee in Brazil under current and future climates considering new CMIP6 models," *Science of the Total Environment* 907 (2024): 10, https://doi.org/10.1016/j.scitotenv.2023.167753. 
-[^57]: Kahsay et al., "New coffee varieties," 7. 
-[^58]: United States Department of Agriculture Economic Research Service, "Adoption of Genetically Engineered Crops in the United States — Recent Trends in GE Adoption," last updated January 4, 2025, https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-united-states/recent-trends-in-ge-adoption. 
-[^59]: T. Leroy et al., "Genetically modified coffee plants expressing the Bacillus thuringiensis cry1Ac gene for resistance to leaf miner," *Plant Cell Reports* 19 (2000): 382, https://doi.org/10.1007/s002990050744. 
-[^60]: Eliana Valencia-Lozano et al., "*Coffea arabica* L. Resistant to Coffee Berry Borer (*Hypothenemus hampei*) Mediated by Expression of the *Bacillus thuringiensis* Cry10Aa Protein," *Frontiers in Plant Science* 12 (2021): 1, https://doi.org/10.3389/fpls.2021.765292. 
-[^61]: Aaron P. Davis et al., "High extinction risk for wild coffee species and implications for coffee sector sustainability," *Science Advances* 5 (2019): 1, https://doi.org/10.1126/sciadv.aav3473. 
-[^62]: Paula Bramel et al., *Global Conservation Strategy for Coffee Genetic Resources* (Crop Trust and World Coffee Research, 2017), https://worldcoffeeresearch.org/resources/global-coffee-conservation-strategy. 
-[^63]: World Coffee Research, "Innovea Global Arabica Breeding Network," accessed May 21, 2025, https://worldcoffeeresearch.org/programs/global-breeding-network. 
-[^64]: Bramel et al., *Global Conservation Strategy*, 6.
+[^43]: Kathryn Lewis, "What’s Causing Coffee Market Volatility?" Global Coffee Report, November 21, 2024, https://www.gcrmag.com/whats-causing-coffee-market-volatility/.
+[^44]: Alice Nguyen, "Bitter Origins: Labor Exploitation in Coffee Production," The Borden Project, accessed July 31, 2025, https://borgenproject.org/labor-exploitation-in-coffee-production/. 
+[^45]: Pablo Siles, Carlos R. Cerdán, and Charles Staver, "Smallholder Coffee in the Global Economy—a Framework to Explore Transformation Alternatives of Traditional Agroforestry for Greater Economic, Ecological, and Livelihood Viability," *Frontiers in Sustainable Food Systems* 6 (2022): 2; Fairtrade Foundation, "Four Threats to Your Morning Coffee," September 6, 2023, https://www.fairtrade.org.uk/media-centre/blog/four-threats-to-coffee/. 
+[^46]: Sarah G. Grant, "Complicated Webs: Experiential Risk in the Vietnamese Coffee Industry," *Political and Legal Anthropology Review* 44, no. 1 (2021): 76.
+[^47]: Goodman. 
+[^48]: United Nations Environment Programme, *Emissions Gap Report 2024: No more hot air … please!* (United Nations, 2024), XIII, https://www.unep.org/resources/emissions-gap-report-2024. 
+[^49]: Aaron P. Davis et al., "Arabica-Like Flavour in a Heat-Tolerant Wild Coffee Species," *Nature Plants* 7 (2021): 413, https://doi.org/10.1038/s41477-021-00891-4. 
+[^50]: Ainhoa Magrach and Jaboury Ghazoul, "Climate and Pest-Driven Geographic Shifts in Global Coffee Production: Implications for Forest Cover, Biodiversity and Carbon Storage," *PLOS One* 10, no. 7 (2015): 1, https://doi.org/10.1371/journal.pone.0133071. 
+[^51]: B. Bertrand et al., "Performance of *Coffea arabica* F1 Hybrids in Agroforestry and Full-Sun Cropping Systems in Comparison with American Pure Line Cultivars," *Euphytica* 181 (2011): 148, https://doi.org/10.1007/s10681-011-0372-7. 
+[^52]: Bertrand et al., 148; Stuart McCook and Andrea Montero-Mora, "Coffee Breeding in a Time of Crisis: F1 Hybrids in Central America Since 1990," *Plants People Planet* 6 (2024): 1071, https://doi.org/10.1002/ppp3.10480.
+[^53]: Philippe Vaast, "Fruit thinning and shade improve bean characteristics and beverage quality of coffee (*Coffea arabica* L.) under optimal conditions," *Journal of the Science of Food and Agriculture* 86, no. 2 (2005): 197, https://doi.org/10.1002/jsfa.2338; D.F. López-Bravo et al., "Shade is conducive to coffee rust as compared to full sun exposure under standardized fruit load conditions," *Crop Protection* 38 (2012): 21, https://doi.org/10.1016/j.cropro.2012.03.011.
+[^54]: Aaron P. Davis et al., "The Re-Emergence of Liberica Coffee as a Major Crop Plant" *Nature Plants* 8 (2022): 1322, https://doi.org/10.1038/s41477-022-01309-5. 
+[^55]: McCook and Montero-Mora, 1070. 
+[^56]: World Coffee Research, "F1 Hybrid Trials," accessed May 20, 2025, https://worldcoffeeresearch.org/programs/next-generation-f1-hybrid-varieties.
+[^57]: Aaron P. Davis et al., 415. 
+[^58]: Marta Zaraska, "How a Forgotten Bean Could Save Coffee From Extinction," *Smithsonian Magazine*, April 2025, 8, https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/. 
+[^59]: Bertrand et al., 147.
+[^60]: Gabriele Dias Cássia et al., "Climate Risks and Vulnerabilities of the Arabica Coffee in Brazil Under Current and Future Climates Considering New CMIP6 Models," *Science of the Total Environment* 907 (2024): 10, https://doi.org/10.1016/j.scitotenv.2023.167753. 
+[^61]: Kahsay et al., 7. 
+[^62]: Aaron P. Davis et al., "High Extinction Risk for Wild Coffee Species and Implications for Coffee Sector Sustainability," *Science Advances* 5 (2019): 1, https://doi.org/10.1126/sciadv.aav3473. 
+[^63]: Paula Bramel et al., *Global Conservation Strategy for Coffee Genetic Resources* (Crop Trust and World Coffee Research, 2017), https://worldcoffeeresearch.org/resources/global-coffee-conservation-strategy. 
+[^64]: Bramel et al., 10. 
+[^65]: Bramel et al., 6. 
+[^66]: Bramel et al., 12.
+[^67]: World Coffee Research, "Innovea Global Arabica Breeding Network," accessed May 21, 2025, https://worldcoffeeresearch.org/programs/global-breeding-network. 
+[^68]: Bramel et al., 6.
