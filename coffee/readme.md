@@ -15,7 +15,7 @@ Coffee is one of the world’s most important agricultural commodities, supporti
 
 Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, Arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to oval, fleshy fruits, each containing the two pale seeds we call coffee beans. Through networks of trade and conquest, the plant has traveled across the tropics, where conditions are ideal for coffee cultivation. Today, Brazil, Colombia, and Ethiopia rank among the leading producers of the crop.[^4]
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/coffee-belt.png"
+	   src="gh:ninafoster/coffee-narrative/main/coffee/coffee-belt.png"
 	   caption="Map of the tropics, where conditions are ideal for coffee cultivation. Nina Foster, ArcGIS.">
 
 Arabica became an agent of connection and community building where it was grown and, further down the supply chain, where it was consumed. Coffeehouses have served as centers of intellectual and cultural exchange for centuries. Countless relationships have been sparked by the question, "Do you want to meet for coffee?" Between planting, harvesting, processing, milling, roasting, and every other step of production and distribution, coffee is touched by at least nine sets of hands before it reaches the consumer.[^5]
@@ -105,12 +105,12 @@ The optimal growing conditions for Arabica coffee include temperatures between 5
 
 Researchers predict that climate change will drastically reduce coffee-suitable lands in the coming decades. One study projects that by 2050, the world’s most suitable areas for growing Arabica coffee could shrink by 54 to 60 percent.[^32] Another study estimates that Latin America could lose as much as 88 percent of its coffee-growing land by the same year.[^33]
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/coffea-arabica-suitability-2050.PNG"
+	   src="gh:ninafoster/coffee-narrative/main/coffee/coffea-arabica-suitability-2050.PNG"
 	   caption="Change in climate-suitable lands by 2050 under an intermediate emissions scenario. From Roman Grüter et al., [Expected global suitability of coffee, cashew and avocado due to climate change](https://doi.org/10.1371/journal.pone.0261976), *PLOS ONE* 17, no. 1 (2022).">
 
 Arabica is further threatened by another climate-related shift: more frequent and severe outbreaks of insect pests and plant diseases. The effects of climate change on insect pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and elevations that were once too cold for survival.
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/rising-temps-and-insect-pests.png"
+	   src="gh:ninafoster/coffee-narrative/main/coffee/rising-temps-and-insect-pests.png"
 	   caption="Climate change generally benefits insects by promoting range expansion and boosting reproductive rates. Graphic by Nina Foster.">
 
 Such is the case for the coffee berry borer (*Hypothenemus hampei*), the world’s most notorious coffee insect pest.[^35] At less than two millimeters long, the female beetles bore into coffee fruits and feed on the developing seeds, creating galleries in which they can lay as many as 100 eggs. The larvae feast on the seed in which they hatch, further reducing its size and quality. The beetle has spread from West Africa to almost all coffee-producing regions, resulting in yearly losses that easily surpass 500 million dollars.[^36]
@@ -139,7 +139,7 @@ These challenges send ripples throughout the supply chain. In January 2025, coff
 
 Climate change impacts both the coffee plant and the billions of people with a relationship to the crop, exacerbating the challenges that industry stakeholders already face. Extreme weather events, inflation, interest rates, unstable energy prices, and global conflicts drive market volatility.[^43] Some farmers toil under intense heat for eight to ten hours a day for very low wages.[^44] Smallholder farmers, who are responsible for at least 60 percent of the global coffee production, often have little negotiating power in coffee supply chains and are forced to get by on meager payments for their crops.[^45]. In an ethnographic study of the Vietnamese coffee industry, Sarah G. Grant describes "a complicated web of risks and uncertainty" in which the decisions of state and global actors often fail to meet the needs of farmers.[^46]
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/coffee-stakeholders.png"
+	   src="gh:ninafoster/coffee-narrative/main/coffee/coffee-stakeholders.png"
 	   caption="Some of the stakeholders in the coffee industry. Graphic by Nina Foster.">
 
 Climate change will make coffee prices more unpredictable, labor conditions more hazardous under extreme heat, and economic losses more devastating. "For us, producing coffee is our life," said Honduran producer Moises Herrera in an interview with journalist Peter S. Goodman. "A lot of producers are starting to lose hope."[^47]
@@ -181,7 +181,7 @@ Early breeding efforts have prioritized Arabica and robusta, the species and fla
 
 An additional benefit of F1 hybrids is their capacity to complement sustainable farming practices. A 2011 analysis of F1 hybrids in Central America found that the plants not only produced earlier and higher yields than traditional American cultivars; they also performed better in agroforestry systems than in full sun.[^59]
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/full-sun-v-agroforestry.png"
+	   src="gh:ninafoster/coffee-narrative/main/coffee/full-sun-v-agroforestry.png"
 	   caption="Comparison of the mean yield of traditional American coffee cultivars versus hybrids according to the cropping system. From B. Bertrand et al., [Performance of Coffea arabica F1 hybrids in agroforestry and full-sun cropping systems in comparison with American pure line cultivars](https://doi.org/10.1007/s10681-011-0372-7), *Euphytica* 181 (2011).">
 
 F1 hybrids are a promising climate solution, and a handful of cultivars are now commercially available to farmers. However, costs and logistical challenges pose a barrier to widespread implementation. "It is neither simple nor cheap to introduce a new cultivar, which takes at least 12 to 16 years from generation to approval for commercial use," explain researchers in Brazil.[^60] The price of a hybrid coffee seedling is 40 to 160 percent higher than a seedling of a traditional variety, and caring for F1 hybrids requires additional labor, fertilizer applications, and management know-how.[^61] Still, the benefits of higher outputs and fewer losses may outweigh the extra costs, especially for large-scale farms. 
@@ -196,7 +196,7 @@ Coffee breeding will rely on an abundance of genetic resources from which to sel
 
 Preserving the genetic diversity of wild coffee species will require a combination of *in situ* conservation, which protects existing plants in their natural habitats, and *ex situ* conservation, which relocates plants to controlled environments.[^63] At present, *ex situ* collections are the primary method of conserving coffee genetic resources. Coffee is not a suitable candidate for long-term seed banking, because its seeds are sensitive to drying and freezing and cannot survive storage beyond two or three years.[^64] Instead, collections must care for live coffee plants.
 <param ve-image
-	   src="gh:ninafoster/playground/main/coffee/countries-with-ex-situ-field-collections.png"
+	   src="gh:ninafoster/coffee-narrative/main/coffee/countries-with-ex-situ-field-collections.png"
 	   caption="Countries with *ex situ* field collections of coffee. Nina Foster, ArcGIS.">
 	   
 Just over half of all coffee species are preserved in germplasm collections. But researchers argue that the current system is "not sustainable, secure, cost effective, or rational."[^65] Most genetic resources are contained in nationally focused collections that are isolated from each other and from external users. Disagreements arise over ownership of genetic material. Furthermore, the collections often struggle with funding, outdated facilities, and staffing shortages. Many are located in ecological conditions that are ill-suited for plant performance or survival, leading to inappropriate cultivation methods and the loss of coffee trees.[^66] To more effectively conserve coffee genetic resources, stakeholders will have to expand protected areas and address the challenges that *ex situ* collections currently face. 
