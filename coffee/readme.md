@@ -55,11 +55,11 @@ The French colonial empire facilitated the passage of Arabica to the Caribbean. 
 
 ### Coffeehouse Culture
 
-As coffee dispersed via merchants and colonial empires, so did the establishment of coffeehouses. According to James Douglas, an eighteenth-century anatomist, botanist, and bibliophile, the first coffeehouse was founded in Mecca near the end of the fifteenth century.[^15] "Thither crowds of people resorted at all hours of the day, to enjoy the pleasure of conversation, play at chess and other games, dance, sing, and divert themselves all manner of ways, under the pretense of drinking coffee," he writes.[^16] These meeting places appeared wherever coffee was consumed, hosting lively exchanges of news, ideas, and political debates. Travelers who visited coffeehouses often left inspired and brought the custom back to their home countries. 
+As coffee dispersed via merchants and colonial powers, so did the establishment of coffeehouses. According to James Douglas, an eighteenth-century anatomist, botanist, and bibliophile, the first coffeehouse was founded in Mecca near the end of the fifteenth century.[^16] "Thither crowds of people resorted at all hours of the day, to enjoy the pleasure of conversation, play at chess and other games, dance, sing, and divert themselves all manner of ways, under the pretense of drinking coffee," he writes.[^17] These meeting places appeared wherever coffee was consumed, hosting lively exchanges of news, ideas, and political debates. Travelers who visited coffeehouses often left inspired and brought the custom back to their home countries.  
 <param ve-iframe
 	   src="https://archive.org/details/supplementtodesc1727doug/page/14">
 
-In some cities, the initial establishment of coffeehouses did not receive unanimous support. Authorities questioned the merits of these gathering spaces, condemning their associations with merry-making and disorder. In sixteenth-century Cairo, for instance, an imam employed his rhetoric against coffee and called its consumption unlawful. Douglas recounts, "His discourse had so great an effect on the mob who heard it, that, as soon as service was over, they went and pulled down all the coffeehouses that fell in their way, broke the pots and dishes, and maltreated the company they found in them."[^17] Coffee ultimately triumphed in court after a judge consulted an assembly of doctors, all of whom decided in favor of the beverage. The drink was redeemed by its delectable flavor and presumed medicinal benefits, said to "keep the body in good health," "quicken the spirits," and "make the heart lightsome."[^18]
+In some cities, the initial establishment of coffeehouses did not receive unanimous support. Authorities questioned the merits of these gathering spaces, condemning their associations with merry-making and disorder. In sixteenth-century Cairo, for instance, an imam employed his rhetoric against coffee and called its consumption unlawful. Douglas recounts, "His discourse had so great an effect on the mob who heard it, that, as soon as service was over, they went and pulled down all the coffeehouses that fell in their way, broke the pots and dishes, and maltreated the company they found in them."[^18] Coffee ultimately triumphed in court after a judge consulted an assembly of doctors, all of whom decided in favor of the beverage. The drink was redeemed by its delectable flavor and presumed medicinal benefits, said to "keep the body in good health," "quicken the spirits," and "make the heart lightsome."[^19]
 <param ve-image
 	   src="wc:Robert_Charles_Goff_-_Coffee_House_and_Mosque_Entrance,_Cairo_-_B1994.4.969_-_Yale_Center_for_British_Art.jpg"
 	   caption="*Coffee House and Mosque Entrance, Cairo* by Robert Charles Goff. Yale Center for British Art via Wikimedia Commons.">
@@ -236,10 +236,10 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^13]: James Douglas, *Arbor Yemensis Fructum Cofè Ferens: Or, A Description and History of the Coffee Tree* (London: Thomas Woodward, 1727), 18, https://doi.org/10.5962/bhl.title.155053. 
 [^14]: Vega, "The Rise of Coffee," 140.
 [^15]: Richard B. Sheridan, "The Plantation Revolution and the Industrial Revolution, 1625-1775," *Caribbean Studies* 9, no. 3 (1969): 20, https://www.jstor.org/stable/25612146.
-[^15]: James Douglas, *A Supplement to the Description of the Coffee-tree* (London: Half-Moon, 1727), 14, https://archive.org/details/supplementtodesc1727doug/mode/2up.
-[^16]: Douglas, *A Supplement*, 14. 
-[^17]: Douglas, *A Supplement*, 18. 
-[^18]: Douglas, *A Supplement*, 32. 
+[^16]: James Douglas, *A Supplement to the Description of the Coffee-tree* (London: Thomas Woodward, 1727), 14, https://archive.org/details/supplementtodesc1727doug/mode/2up. 
+[^17]: Douglas, 14. 
+[^18]: Douglas, 18. 
+[^19]: Douglas, 32. 
 [^19]: Jürgen Habermas, *The Structural Transformation of the Public Sphere*, trans. Thomas Burger (Cambridge: The MIT Press, 1991), 57.
 [^20]: Brian Cowan, "The Rise of the Coffeehouse Reconsidered," *The Historical Journal* 47, no. 1 (2004): 21, http://www.jstor.org/stable/4091544.
 [^21]: Brian Cowan, *The Social Life of Coffee: The Emergence of the British Coffeehouse* (Yale University Press, 2005), 2, http://www.jstor.org/stable/j.ctt1npc0p.
