@@ -64,15 +64,24 @@ In some cities, the initial establishment of coffeehouses did not receive unanim
 	   src="wc:Robert_Charles_Goff_-_Coffee_House_and_Mosque_Entrance,_Cairo_-_B1994.4.969_-_Yale_Center_for_British_Art.jpg"
 	   caption="*Coffee House and Mosque Entrance, Cairo* by Robert Charles Goff. Yale Center for British Art via Wikimedia Commons.">
 
-In seventeenth-century Europe, these spaces served as forums for the dissemination of Enlightenment culture. German social theorist Jürgen Habermas points to the English coffeehouse as "a public sphere that functioned in the political realm."[^19] Heads of state, such as King Charles II, tried and failed to suppress the vibrant exchange of political news among coffeehouse clientele.[^20] Patrons continued to criticize their governments, authors gathered to discuss literature, and merchants and stockbrokers turned their tables into unofficial offices. Historian Brian Cowan summarizes the Habermasian view of the coffeehouse as "a novel unique and social space in which distinctions of rank were temporarily ignored and uninhibited debate on matters of political and philosophical interest flourished."[^21] Of course, not all social distinctions were cast aside. Women were generally excluded from coffeehouse society, and the locales were criticized for only serving "prosperous middle-class Londoners."[^22]
+In seventeenth-century Europe, coffeehouses served as forums for the dissemination of Enlightenment culture. German social theorist Jürgen Habermas points to the English coffeehouse as "a public sphere that functioned in the political realm."[^20] Heads of state, such as England’s King Charles II, tried and failed to suppress the vibrant exchange of political news among coffeehouse clientele.[^21] Patrons continued to criticize their governments, authors gathered to discuss literature, and merchants and stockbrokers turned their tables into unofficial offices.
 <param ve-image
 	   src="wc:Interior_of_a_London_Coffee-house,_17th_century.JPG"
 	   caption="Interior of a London coffeehouse, 17th century. Wikimedia Commons.">
 
-Coffee eventually migrated from the public realm of the coffeehouse to the private sphere. At home, the beverage became available to women and the working class. Women gathered close acquaintances for daily or weekly coffee parties, mirroring the socializing and discourse of the public spaces from which they were prohibited. And with the rise of industrialization, coffee became entangled with labor. According to historian Wolfgang Schivelbusch, the stimulant was a "first-rate efficiency factor" that "promised nothing less than to lengthen and intensify the time available for work."[^23] Coffee enabled workers to fend off drowsiness, fueling an industry that prioritized endurance and productivity.
+Historian Brian Cowan summarizes the Habermasian view of the coffeehouse as "a novel unique and social space in which distinctions of rank were temporarily ignored and uninhibited debate on matters of political and philosophical interest flourished."[^22] But not all social distinctions were cast aside. Scholars have criticized the locales for only serving "prosperous middle-class Londoners" and excluding women from the debate and business transactions commonly associated with coffeehouse society.[^23] To compensate for this dismissal in the public domain, affluent women took to the private sphere to mirror such socializing and discourse. They gathered close acquaintances for daily or weekly coffee parties, which historian Wolfgang Schivelbusch deemed "a surrogate for the original coffeehouse created for male society."[^24]
 <param ve-image
 	   src="wc:François_Boucher_002.jpg"
 	   caption="*Le Dejeuner (Morning Coffee)* by François Boucher, 1739. Oil on canvas. Louvre Museum, Paris via Wikimedia Commons.">
+	   
+With the rise of industrialization in the eighteenth century, coffee became entangled with labor. As a stimulant, it was a "first-rate efficiency factor" that "promised nothing less than to lengthen and intensify the *time* available for work."[^25] Coffee enabled the working class to fend off drowsiness in favor of endurance and productivity. 
+<param ve-video
+	   src="WD6cYabx0nk"
+	   caption="Coffee and Labor"
+	   start="115"
+	   end="162">
+
+Coffee eventually migrated from the public realm of the coffeehouse to the private sphere. At home, the beverage became available to women and the working class. Women gathered close acquaintances for daily or weekly coffee parties, mirroring the socializing and discourse of the public spaces from which they were prohibited. And with the rise of industrialization, coffee became entangled with labor. According to historian Wolfgang Schivelbusch, the stimulant was a "first-rate efficiency factor" that "promised nothing less than to lengthen and intensify the time available for work."[^23] Coffee enabled workers to fend off drowsiness, fueling an industry that prioritized endurance and productivity.
 
 Today, 2.3 billion cups of coffee are consumed daily in private homes and millions of coffee shops around the world.[^24] The drink continues to power labor forces in diverse workplaces, from offices to farms and factories. Contemporary coffeehouses have come a long way from their earliest ancestors, with modern brewing equipment and fewer social limitations, but they embody many of the same virtues. John Frederick Frank’s 1947 poem "Coffee Hour" paints the coffeehouse as a community hub. It begins, "Society solidified: three old ladies / Sipping primly, facing friends."[^25] Centuries after Yemen’s initial cultivation of *Coffea arabica*, the plant continues to connect us.
 <param ve-image
@@ -240,12 +249,13 @@ We cannot abandon the plant that has shaped societies in its travels from the fo
 [^17]: Douglas, 14. 
 [^18]: Douglas, 18. 
 [^19]: Douglas, 32. 
-[^19]: Jürgen Habermas, *The Structural Transformation of the Public Sphere*, trans. Thomas Burger (Cambridge: The MIT Press, 1991), 57.
-[^20]: Brian Cowan, "The Rise of the Coffeehouse Reconsidered," *The Historical Journal* 47, no. 1 (2004): 21, http://www.jstor.org/stable/4091544.
-[^21]: Brian Cowan, *The Social Life of Coffee: The Emergence of the British Coffeehouse* (Yale University Press, 2005), 2, http://www.jstor.org/stable/j.ctt1npc0p.
-[^22]: Steve Pincus, "'Coffee Politicians Does Create': Coffeehouses and Restoration Political Culture," *The Journal of Modern History* 67, no. 4 (1995): 809, http://www.jstor.org/stable/2124756.
-[^23]: Wolfgang Schivelbusch, *Tastes of Paradise: A Social History of Spices, Stimulants, and Intoxicants* (Pantheon Books, 1992), 39.
-[^24]: Research and Markets, *Coffee Market Size and Share Analysis – Growth Trends and Forecast Report 2025-2033* (Research and Markets, 2025).
+[^20]: Jürgen Habermas, *The Structural Transformation of the Public Sphere*, trans. Thomas Burger (Cambridge: The MIT Press, 1991), 57. 
+[^21]: Brian Cowan, "The Rise of the Coffeehouse Reconsidered," *The Historical Journal* 47, no. 1 (2004): 21, http://www.jstor.org/stable/4091544.
+[^22]: Brian Cowan, *The Social Life of Coffee: The Emergence of the British Coffeehouse* (Yale University Press, 2005), 2, http://www.jstor.org/stable/j.ctt1npc0p.
+[^23]: Steve Pincus, "'Coffee Politicians Does Create': Coffeehouses and Restoration Political Culture," *The Journal of Modern History* 67, no. 4 (1995): 809, http://www.jstor.org/stable/2124756.
+[^24]: Wolfgang Schivelbusch, *Tastes of Paradise: A Social History of Spices, Stimulants, and Intoxicants* (Pantheon Books, 1992), 69.
+[^25]: Schivelbusch, 39. 
+Research and Markets, *Coffee Market Size and Share Analysis – Growth Trends and Forecast Report 2025-2033* (Research and Markets, 2025).
 [^25]: John Frederick Frank, "Coffee Hour," *Poetry* 71, no. 3 (1947): 133, http://www.jstor.org/stable/20590301.
 [^26]: United States Department of Agriculture Foreign Agricultural Service, "Production — Coffee," USDA, accessed May 19, 2025, https://www.fas.usda.gov/data/production/commodity/0711100. 
 [^27]: United States Department of Agriculture Foreign Agricultural Service, *Coffee: World Markets and Trade* (USDA, 2024), https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf. 
