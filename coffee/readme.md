@@ -202,7 +202,7 @@ Preserving the genetic diversity of wild coffee species will require a combinati
 Just over half of all coffee species are preserved in germplasm collections. But researchers argue that the current system is "not sustainable, secure, cost effective, or rational."[^65] Most genetic resources are contained in nationally focused collections that are isolated from each other and from external users. Disagreements arise over ownership of genetic material. Furthermore, the collections often struggle with funding, outdated facilities, and staffing shortages. Many are located in ecological conditions that are ill-suited for plant performance or survival, leading to inappropriate cultivation methods and the loss of coffee trees.[^66] To more effectively conserve coffee genetic resources, stakeholders will have to expand protected areas and address the challenges that *ex situ* collections currently face. 
 <param ve-image
 	   src="wc:CIAT_genebank_(6918515038).jpg"
-	   caption="A researcher at the International Center for Tropical Agriculture genebank.">
+	   caption="A researcher at the International Center for Tropical Agriculture genebank. Luigi Guarino via Wikimedia Commons.">
 
 ### Brewing Partnerships 
 
